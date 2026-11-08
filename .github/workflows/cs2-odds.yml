@@ -38,7 +38,7 @@ jobs:
 
       - name: Probe historical handicap sources
         if: github.event.inputs.mode == 'hist'
-        run: python probe_all.py
+        run: python probe_be.py
 
       - name: Structure probe
         if: github.event.inputs.mode == 'probe'
