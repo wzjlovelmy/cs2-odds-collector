@@ -400,6 +400,52 @@ def list_sports():
     return 0
 
 
+def scan_sports():
+    """/0.1/sports 不含 esports，逐个试探候选 sport id。"""
+    # 先看是否有 all=true 这类开关能带出隐藏项目
+    for path in ("/0.1/sports?all=true", "/0.1/sports/all", "/0.1/sports?brandId=0"):
+        obj, st = get_json(path)
+        n = len(as_list(obj))
+        print("%-28s HTTP=%-4s n=%s" % (path, st, n))
+        if st == 200 and n > 60:
+            names = [(s.get("id"), s.get("name")) for s in as_list(obj)]
+            hit = [x for x in names
+                   if any(k in (x[1] or "").lower()
+                          for k in ("esport", "counter", "strike", "dota", "valorant", "league of"))]
+            print("   关键词命中:", hit if hit else "无")
+            print("   最大 id:", max(i for i, _ in names))
+
+    print("\n--- 候选 sport id 探测 ---")
+    cands = [235, 236, 242, 266, 274, 277, 279, 154, 155, 237, 238,
+             239, 240, 241, 243, 244, 245, 246, 248]
+    for sid in cands:
+        obj, st = get_json("/0.1/sports/%d/matchups" % sid, retries=1)
+        lst = as_list(obj)
+        if st != 200 or not lst:
+            print("  id=%-4s HTTP=%-4s n=%d" % (sid, st, len(lst)))
+            continue
+        # 只挑 type=matchup 的，看球队名判断是不是 CS2
+        ms = [m for m in lst if isinstance(m, dict) and m.get("type") == "matchup"]
+        sample = []
+        for m in ms[:2]:
+            parts = [p.get("name", "") for p in (m.get("participants") or [])]
+            lg = (m.get("league") or {}).get("name", "")
+            sample.append("%s | %s" % (" vs ".join(parts), lg))
+        print("  id=%-4s HTTP=%-4s n=%-5d matchup=%-4d  %s"
+              % (sid, st, len(lst), len(ms), " ;; ".join(sample)[:150]))
+        # 对每个疑似 esports 的 id 再看 period/type 组合
+        if ms:
+            mid = ms[0].get("id")
+            mks, s2 = get_json("/0.1/matchups/%s/markets/related/straight" % mid, retries=1)
+            ml = as_list(mks)
+            combos = {}
+            for m in ml:
+                k = "%s/p%s" % (m.get("type"), m.get("period"))
+                combos[k] = combos.get(k, 0) + 1
+            print("        markets=%d %s" % (len(ml), combos))
+    return 0
+
+
 def probe():
     """打印结构诊断，帮助确认字段名是否与预期一致。"""
     mus, status = get_json("/0.1/sports/%d/matchups" % SPORT_ID)
@@ -461,6 +507,7 @@ def main():
     ap.add_argument("--out", default="out", help="输出目录（默认 out）")
     ap.add_argument("--probe", action="store_true", help="只做结构探测，不写 CSV")
     ap.add_argument("--list-sports", action="store_true", help="列出所有 sport id")
+    ap.add_argument("--scan-sports", action="store_true", help="试探候选 esports sport id")
     ap.add_argument("--dump-raw", default="", help="额外保存原始 JSON 到此目录")
     ap.add_argument("--days-ahead", type=int, default=3)
     ap.add_argument("--max-matches", type=int, default=120)
@@ -474,6 +521,8 @@ def main():
 
     if args.list_sports:
         return list_sports()
+    if args.scan_sports:
+        return scan_sports()
     if args.probe:
         return probe()
 
