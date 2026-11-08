@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "probe = 只打印 API 结构诊断，不采集"
+        description: "sports = 只列 sport id | probe = 结构诊断 | collect = 采集"
         required: false
         default: "collect"
 
@@ -28,6 +28,11 @@ jobs:
         with:
           python-version: "3.12"
 
+      # ---- 仅手动 sports 模式：列出所有 sport id
+      - name: List sports
+        if: github.event.inputs.mode == 'sports'
+        run: python fetch_pinnacle.py --list-sports
+
       # ---- 仅手动 probe 模式：打印结构 + 落原始 JSON
       - name: Probe structure
         if: github.event.inputs.mode == 'probe'
@@ -39,8 +44,8 @@ jobs:
 
       # ---- 正常采集
       - name: Collect odds
-        if: github.event.inputs.mode != 'probe'
-        run: python fetch_pinnacle.py --max-matches 80
+        if: github.event.inputs.mode == 'collect' || github.event.inputs.mode == ''
+        run: python fetch_pinnacle.py --days-ahead 3 --max-matches 120
 
       - name: Commit results
         if: always()
