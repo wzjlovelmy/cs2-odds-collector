@@ -103,12 +103,28 @@ def main():
             print("   %-42s %d" % (k, v))
 
         if cs2:
-            e0 = cs2[0]
-            ev = e0.get("event", {})
-            print("-" * 74)
-            print("样本 event: id=%s  %s  start=%s  赛事=%s"
-                  % (ev.get("id"), ev.get("name"), ev.get("start"), ev.get("group")))
-            dump_betoffers(ev.get("id"), mkt)
+            # 必须挑未开赛的，已开赛的 prematch 盘口会被关掉
+            from datetime import datetime, timezone
+            now = datetime.now(timezone.utc)
+            up = []
+            for e in cs2:
+                st = e.get("event", {}).get("start")
+                try:
+                    t = datetime.fromisoformat(st.replace("Z", "+00:00"))
+                except Exception:
+                    continue
+                if t > now:
+                    up.append((t, e))
+            up.sort(key=lambda x: x[0])
+            print("未开赛 CS2 场次 =", len(up))
+            if not up:
+                continue
+            for _, e0 in up[:2]:
+                ev = e0.get("event", {})
+                print("-" * 74)
+                print("样本 event: id=%s  %s  start=%s  赛事=%s"
+                      % (ev.get("id"), ev.get("name"), ev.get("start"), ev.get("group")))
+                dump_betoffers(ev.get("id"), mkt)
     return 0
 
 
