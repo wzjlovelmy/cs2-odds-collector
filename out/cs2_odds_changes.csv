@@ -444,3 +444,5 @@ fetched_at,source,event_id,start_time,league,home,away,scope,market,line,outcome
 2026-11-08T19:09:43Z,kambi_paf,1029795034,2026-11-08T18:05:00Z,ESL Challenger League EU Cup,Fokus,Acend,series,moneyline,,Acend,Acend,,2.8,0
 2026-11-08T19:09:43Z,kambi_paf,1029785836,2026-11-08T18:10:00Z,CCT European Series 14,Drama eSports,Ryvex,series,moneyline,,Drama eSports,Drama eSports,,2.4,0
 2026-11-08T19:09:43Z,kambi_paf,1029785836,2026-11-08T18:10:00Z,CCT European Series 14,Drama eSports,Ryvex,series,moneyline,,Ryvex,Ryvex,,1.54,0
+2026-11-08T22:52:16Z,kambi_paf,1029796967,2026-11-09T14:00:00Z,ESL Challenger League EU Cup,Alliance,Fokus,series,moneyline,,Alliance,Alliance,,2.1,0
+2026-11-08T22:52:16Z,kambi_paf,1029796967,2026-11-09T14:00:00Z,ESL Challenger League EU Cup,Alliance,Fokus,series,moneyline,,Fokus,Fokus,,1.7,0
