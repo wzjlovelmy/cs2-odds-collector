@@ -40,7 +40,7 @@ jobs:
       # ---- 多源可用性探测
       - name: Probe alternate odds sources
         if: github.event.inputs.mode == 'sources'
-        run: python probe_sources3.py
+        run: python probe_bovada.py
 
       # ---- 仅手动 probe 模式：打印结构 + 落原始 JSON
       - name: Probe structure
