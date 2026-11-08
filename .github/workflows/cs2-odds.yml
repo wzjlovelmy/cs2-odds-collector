@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "sports = 只列 sport id | probe = 结构诊断 | collect = 采集"
+        description: "collect = 采集盘口 | probe = 看 Bovada 结构"
         required: false
         default: "collect"
 
@@ -20,7 +20,7 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 12
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
@@ -28,43 +28,23 @@ jobs:
         with:
           python-version: "3.12"
 
-      # ---- 仅手动 sports 模式：列出所有 sport id
-      - name: List sports
-        if: github.event.inputs.mode == 'sports'
-        run: python fetch_pinnacle.py --list-sports
-
-      - name: Scan esports ids
-        if: github.event.inputs.mode == 'sports'
-        run: python fetch_pinnacle.py --scan-sports
-
-      # ---- 多源可用性探测
-      - name: Probe alternate odds sources
-        if: github.event.inputs.mode == 'sources'
+      - name: Structure probe
+        if: github.event.inputs.mode == 'probe'
         run: python probe_bovada2.py
 
-      # ---- 仅手动 probe 模式：打印结构 + 落原始 JSON
-      - name: Probe structure
-        if: github.event.inputs.mode == 'probe'
-        run: python fetch_pinnacle.py --probe
-
-      - name: Dump raw sample
-        if: github.event.inputs.mode == 'probe'
-        run: python fetch_pinnacle.py --out _probe_out --dump-raw _probe --days-ahead 7 --max-matches 3
-
-      # ---- 正常采集
-      - name: Collect odds
+      - name: Collect odds (Bovada + Kambi)
         if: github.event.inputs.mode == 'collect' || github.event.inputs.mode == ''
-        run: python fetch_pinnacle.py --days-ahead 3 --max-matches 120
+        run: python fetch_odds.py
 
       - name: Commit results
         if: always()
         run: |
           git config user.name  "odds-bot"
           git config user.email "odds-bot@users.noreply.github.com"
-          git add -A
+          git add -A out
           if git diff --cached --quiet; then
             echo "no change"
           else
-            git commit -m "[skip ci] snapshot $(date -u +%Y%m%dT%H%MZ)"
+            git commit -m "[skip ci] odds $(date -u +%Y%m%dT%H%MZ)"
             git push
           fi
