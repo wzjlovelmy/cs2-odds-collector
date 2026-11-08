@@ -58,8 +58,8 @@ HEADERS = {
 
 FIELDS = [
     "fetched_at", "matchup_id", "start_time", "league", "units", "home", "away",
-    "period", "market_label", "market_type", "designation", "side",
-    "points", "price_us", "price_dec", "is_live",
+    "period", "market_label", "market_type", "market_key", "is_alt",
+    "designation", "side", "points", "price_us", "price_dec", "is_live",
 ]
 
 # ---------------------------------------------------------------- HTTP
@@ -167,7 +167,7 @@ def side_of(designation, home, away):
     return designation or ""
 
 
-def flatten(mu, markets, fetched_at, is_live):
+def flatten(mu, markets, fetched_at, is_live, include_alt=False):
     """一个 matchup + 其 markets → CSV 行列表。"""
     home, away = pick_teams(mu)
     league = ""
@@ -184,9 +184,15 @@ def flatten(mu, markets, fetched_at, is_live):
             continue
         mtype = (m.get("type") or "").lower()
         period = m.get("period", 0)
+        is_alt = bool(m.get("isAlternate"))
+        if is_alt and not include_alt:
+            continue
+        if (m.get("status") or "open").lower() != "open":
+            continue
         prices = m.get("prices") or []
         if not prices:
             continue
+        mside = (m.get("side") or "").lower()
         for pr in prices:
             if not isinstance(pr, dict):
                 continue
@@ -196,6 +202,12 @@ def flatten(mu, markets, fetched_at, is_live):
             dec = to_decimal(price)
             if dec is None:
                 continue
+            # team_total 的 market 级 side 指明是哪一队的大小分
+            if mside in ("home", "away"):
+                team = home if mside == "home" else away
+                side_txt = "%s_%s" % (team, des)
+            else:
+                side_txt = side_of(des, home, away)
             rows.append({
                 "fetched_at": fetched_at,
                 "matchup_id": mid,
@@ -207,8 +219,10 @@ def flatten(mu, markets, fetched_at, is_live):
                 "period": period,
                 "market_label": period_label(period, units),
                 "market_type": mtype,
+                "market_key": m.get("key") or "",
+                "is_alt": int(is_alt),
                 "designation": des,
-                "side": side_of(des, home, away),
+                "side": side_txt,
                 "points": "" if pts is None else pts,
                 "price_us": "" if price is None else price,
                 "price_dec": dec,
@@ -231,7 +245,7 @@ def select_matchups(matchups, days_ahead=3, include_live=True):
             continue
         if (mu.get("type") or "").lower() != "matchup":
             continue
-        if mu.get("parent") is not None:
+        if mu.get("parent") is not None or mu.get("parentId") is not None:
             continue
         if len(mu.get("participants") or []) < 2:
             continue
@@ -246,13 +260,12 @@ def select_matchups(matchups, days_ahead=3, include_live=True):
                     continue
                 if t > hi:
                     continue
-                if t > now and not include_live:
-                    continue
         out.append(mu)
+    out.sort(key=lambda m: m.get("startTime") or "")
     return out
 
 
-def crawl(days_ahead=3, max_matches=80, dump_raw=None, verbose=True):
+def crawl(days_ahead=3, max_matches=80, dump_raw=None, include_alt=False, verbose=True):
     fetched_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
     mus, status = get_json("/0.1/sports/%d/matchups" % SPORT_ID)
@@ -267,6 +280,11 @@ def crawl(days_ahead=3, max_matches=80, dump_raw=None, verbose=True):
     if verbose:
         print("[matchups] 原始 %d 条，时间窗内主盘口 %d 场（上限 %d）"
               % (len(all_mu), len(sel), max_matches))
+        for mu in sel[:3]:
+            print("   · %s vs %s  %s  units=%s"
+                  % (pick_teams(mu)[0], pick_teams(mu)[1],
+                     mu.get("league", {}).get("name") if isinstance(mu.get("league"), dict) else "",
+                     mu.get("units")))
 
     rows = []
     errs = []
@@ -278,21 +296,18 @@ def crawl(days_ahead=3, max_matches=80, dump_raw=None, verbose=True):
             errs.append((mid, st))
             continue
         mlist = as_list(mks)
-        rows.extend(flatten(mu, mlist, fetched_at, mu.get("isLive")))
-        if dump_raw is not None and len(probe_samples) < 3:
+        rows.extend(flatten(mu, mlist, fetched_at, mu.get("isLive"), include_alt))
+        if dump_raw is not None and len(probe_samples) < 2:
             probe_samples.append({"matchup": mu, "markets": mks})
-        if i % 10 == 0 and verbose:
-            print("  ...%d/%d  %s vs %s  markets=%d"
-                  % (i + 1, len(sel), pick_teams(mu)[0], pick_teams(mu)[1], len(mlist)))
-        time.sleep(0.25)
+        time.sleep(0.2)
 
     if dump_raw is not None:
         dump_raw.mkdir(parents=True, exist_ok=True)
         payload = {
             "fetched_at": fetched_at,
             "sport_id": SPORT_ID,
-            "matchups_raw": all_mu,
-            "samples": probe_samples,
+            "matchups_sample": all_mu[:15],   # 只存样本，避免几十 MB
+            "markets_samples": probe_samples,
         }
         p = dump_raw / ("probe_%s.json" % fetched_at.replace(":", ""))
         p.write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8")
@@ -362,6 +377,29 @@ def log_line(out_dir, meta):
 # ---------------------------------------------------------------- probe
 
 
+def list_sports():
+    """列出全部 sport id。Pinnacle 的 id 与直觉不符（29 是足球），必须实测。"""
+    obj, status = get_json("/0.1/sports")
+    print("HTTP:", status)
+    lst = as_list(obj)
+    print("n =", len(lst))
+    if lst:
+        print("keys:", sorted(lst[0].keys()))
+    kw = ("counter", "csgo", "cs2", "esport", "dota", "league of",
+          "valorant", "overwatch", "call of", "strike")
+    print("\n--- 关键词命中 ---")
+    for s in lst:
+        name = ((s.get("name") or "") + " " + (s.get("slug") or "")).lower()
+        if any(k in name for k in kw):
+            print("  id=%-6s %s" % (s.get("id"), s.get("name")))
+    print("\n--- 全量 ---")
+    items = sorted(lst, key=lambda x: (x.get("id") or 0))
+    for i in range(0, len(items), 3):
+        print("   ".join("id=%-5s %-28s" % (s.get("id"), s.get("name"))
+                         for s in items[i:i + 3]))
+    return 0
+
+
 def probe():
     """打印结构诊断，帮助确认字段名是否与预期一致。"""
     mus, status = get_json("/0.1/sports/%d/matchups" % SPORT_ID)
@@ -422,17 +460,26 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", default="out", help="输出目录（默认 out）")
     ap.add_argument("--probe", action="store_true", help="只做结构探测，不写 CSV")
+    ap.add_argument("--list-sports", action="store_true", help="列出所有 sport id")
     ap.add_argument("--dump-raw", default="", help="额外保存原始 JSON 到此目录")
     ap.add_argument("--days-ahead", type=int, default=3)
-    ap.add_argument("--max-matches", type=int, default=80)
+    ap.add_argument("--max-matches", type=int, default=120)
+    ap.add_argument("--include-alt", action="store_true", help="同时保存替代盘口")
+    ap.add_argument("--sport", type=int, default=0, help="覆盖 SPORT_ID")
     args = ap.parse_args()
 
+    global SPORT_ID
+    if args.sport:
+        SPORT_ID = args.sport
+
+    if args.list_sports:
+        return list_sports()
     if args.probe:
         return probe()
 
     out_dir = Path(args.out)
     dump = Path(args.dump_raw) if args.dump_raw else None
-    rows, meta = crawl(args.days_ahead, args.max_matches, dump)
+    rows, meta = crawl(args.days_ahead, args.max_matches, dump, args.include_alt)
 
     if not rows:
         print("[warn] 没有取到任何盘口")
