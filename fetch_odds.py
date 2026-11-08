@@ -18,6 +18,7 @@ from __future__ import annotations
 
 import csv
 import json
+import re
 import sys
 import time
 import urllib.error
@@ -114,9 +115,9 @@ def fetch_bovada(fetched_at):
                     elif "total" in mname:
                         mtype = "total"
                     else:
-                        mtype = mname
+                        continue        # 只要胜负/让分/总分，丢弃 correct score、props 等
                     period = ((mk.get("period") or {}).get("description") or "").lower()
-                    scope = "series" if period in ("game", "match", "") else period
+                    base_scope = "series" if period in ("game", "match", "") else period
                     for o in (mk.get("outcomes") or []):
                         pr = o.get("price") or {}
                         dec = pr.get("decimal")
@@ -129,6 +130,13 @@ def fetch_bovada(fetched_at):
                         if dec is None:
                             continue
                         desc = o.get("description") or ""
+                        # outcome 里带 " - LMap 2" 表示这是第 2 张图的盘口
+                        mm = re.search(r"-\s*L?Map\s*(\d+)", desc, re.I)
+                        if mm:
+                            scope = "map" + mm.group(1)
+                            desc = re.sub(r"\s*-\s*L?Map\s*\d+", "", desc, flags=re.I).strip()
+                        else:
+                            scope = base_scope
                         low = desc.lower()
                         if low.startswith("over"):
                             team = "over"
