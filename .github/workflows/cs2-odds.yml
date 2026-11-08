@@ -33,6 +33,10 @@ jobs:
         if: github.event.inputs.mode == 'sports'
         run: python fetch_pinnacle.py --list-sports
 
+      - name: Scan esports ids
+        if: github.event.inputs.mode == 'sports'
+        run: python fetch_pinnacle.py --scan-sports
+
       # ---- 仅手动 probe 模式：打印结构 + 落原始 JSON
       - name: Probe structure
         if: github.event.inputs.mode == 'probe'
