@@ -38,7 +38,7 @@ jobs:
 
       - name: Probe historical handicap sources
         if: github.event.inputs.mode == 'hist'
-        run: python probe_oddspapi.py
+        run: python probe_oddspapi2.py
 
       - name: Structure probe
         if: github.event.inputs.mode == 'probe'
