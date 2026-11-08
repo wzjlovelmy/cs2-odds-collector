@@ -258,11 +258,20 @@ def main():
         return 2
 
     latest = out / "cs2_odds_latest.csv"
-    prev = {key_of(r): r.get("price_dec") for r in read_csv(latest)}
-    write_csv(latest, rows)
-    changed = [r for r in rows if prev.get(key_of(r)) != str(r["price_dec"])]
-    if changed:
-        write_csv(out / "cs2_odds_changes.csv", changed, append=True)
+    prev = read_csv(latest)
+    prev_map = {key_of(r): r.get("price_dec") for r in prev}
+
+    def sig(rs):
+        return sorted((key_of(r), str(r.get("price_dec"))) for r in rs)
+
+    # 盘面没变就不重写 latest，避免每次 commit 都产生新 blob 把仓库撑大
+    if sig(rows) != sig(prev):
+        write_csv(latest, rows)
+        changed = [r for r in rows if prev_map.get(key_of(r)) != str(r["price_dec"])]
+        if changed:
+            write_csv(out / "cs2_odds_changes.csv", changed, append=True)
+    else:
+        changed = []
 
     with (out / "odds_log.txt").open("a", encoding="utf-8") as f:
         f.write(json.dumps({"ts": fetched_at, "rows": len(rows),
