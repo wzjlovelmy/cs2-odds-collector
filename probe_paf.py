@@ -33,7 +33,42 @@ def path_terms(ev):
     return [p.get("termKey") for p in (ev.get("path") or [])]
 
 
+def dump_betoffers(event_id, mkt="GB"):
+    url = ("https://eu-offering-api.kambicdn.com/offering/v2018/paf/betoffer/%s.json"
+           "?lang=en_GB&market=%s&client_id=2&channel_id=1&ncid=1" % (event_id, mkt))
+    try:
+        j = get(url)
+    except Exception as e:
+        print("  betoffer 请求失败:", e)
+        return
+    bos = j.get("betOffers") or []
+    print("  betOffers 总数 =", len(bos))
+    types = {}
+    for bo in bos:
+        n = (bo.get("betOfferType") or {}).get("englishName") or \
+            (bo.get("betOfferType") or {}).get("name") or "?"
+        types[n] = types.get(n, 0) + 1
+    print("  盘口类型(%d 种):" % len(types))
+    for k, v in sorted(types.items(), key=lambda x: -x[1]):
+        print("     %-40s %d" % (k, v))
+
+    # 打印每种类型的第一条，看 line / criterion 标度
+    seen = set()
+    for bo in bos:
+        n = (bo.get("betOfferType") or {}).get("englishName") or "?"
+        if n in seen:
+            continue
+        seen.add(n)
+        print("   --- %s ---" % n)
+        for o in (bo.get("outcomes") or [])[:4]:
+            crit = o.get("criterion") or {}
+            print("      label=%-24s odds=%-7s line=%-7s part=%-10s crit=%s"
+                  % (o.get("label"), o.get("odds"), o.get("line"),
+                     o.get("participant"), crit.get("label")))
+
+
 def main():
+    print("=" * 74)
     for mkt in ("GB", "FI"):
         try:
             j = get(BASE_URL.format(mkt=mkt))
@@ -63,7 +98,7 @@ def main():
                 n = (bo.get("betOfferType") or {}).get("englishName") or \
                     (bo.get("betOfferType") or {}).get("name") or "?"
                 types[n] = types.get(n, 0) + 1
-        print("betOfferType 全集(%d 种):" % len(types))
+        print("listView 的 betOfferType(%d 种):" % len(types))
         for k, v in sorted(types.items(), key=lambda x: -x[1]):
             print("   %-42s %d" % (k, v))
 
@@ -71,15 +106,9 @@ def main():
             e0 = cs2[0]
             ev = e0.get("event", {})
             print("-" * 74)
-            print("样本: id=%s  %s" % (ev.get("id"), ev.get("name")))
-            print("event 字段:", sorted(ev.keys()))
-            for bo in (e0.get("betOffers") or []):
-                t = (bo.get("betOfferType") or {}).get("englishName")
-                print("  [%s] id=%s state=%s" % (t, bo.get("id"), bo.get("status")))
-                for o in (bo.get("outcomes") or []):
-                    print("      label=%-22s odds=%-6s line=%-7s part=%s"
-                          % (o.get("label"), o.get("odds"), o.get("line"),
-                             o.get("participant")))
+            print("样本 event: id=%s  %s  start=%s  赛事=%s"
+                  % (ev.get("id"), ev.get("name"), ev.get("start"), ev.get("group")))
+            dump_betoffers(ev.get("id"), mkt)
     return 0
 
 
