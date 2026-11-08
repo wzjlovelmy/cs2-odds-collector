@@ -6,9 +6,13 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "collect = 采集盘口 | probe = 看 Bovada 结构"
+        description: "collect = 采集盘口 | probe = 看 Bovada 结构 | hist = 探测历史让分盘源"
         required: false
         default: "collect"
+      only:
+        description: "hist 模式的单源过滤（betexplorer/oddsportal/fonbet/bo3/misc）"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -27,6 +31,14 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
+      - name: Install deps
+        if: github.event.inputs.mode == 'hist'
+        run: pip install --quiet curl_cffi
+
+      - name: Probe historical handicap sources
+        if: github.event.inputs.mode == 'hist'
+        run: python probe_hist.py ${{ github.event.inputs.only }}
 
       - name: Structure probe
         if: github.event.inputs.mode == 'probe'
