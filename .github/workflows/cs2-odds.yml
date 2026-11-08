@@ -1,0 +1,56 @@
+name: cs2-odds
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "probe = 只打印 API 结构诊断，不采集"
+        required: false
+        default: "collect"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cs2-odds
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # ---- 仅手动 probe 模式：打印结构 + 落原始 JSON
+      - name: Probe structure
+        if: github.event.inputs.mode == 'probe'
+        run: python fetch_pinnacle.py --probe
+
+      - name: Dump raw sample
+        if: github.event.inputs.mode == 'probe'
+        run: python fetch_pinnacle.py --out _probe_out --dump-raw _probe --days-ahead 7 --max-matches 3
+
+      # ---- 正常采集
+      - name: Collect odds
+        if: github.event.inputs.mode != 'probe'
+        run: python fetch_pinnacle.py --max-matches 80
+
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name  "odds-bot"
+          git config user.email "odds-bot@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "no change"
+          else
+            git commit -m "[skip ci] snapshot $(date -u +%Y%m%dT%H%MZ)"
+            git push
+          fi
