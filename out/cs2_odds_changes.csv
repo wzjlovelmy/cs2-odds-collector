@@ -432,3 +432,7 @@ fetched_at,source,event_id,start_time,league,home,away,scope,market,line,outcome
 2026-11-08T15:00:36Z,bovada,33376165,2026-11-08T17:00:00Z,Tipsport MCR / Counter-Strike 2 / Esports,Unity Esports,Brute Sq,map3,moneyline,,Brute Sq,away,+230,3.3,0
 2026-11-08T15:00:36Z,bovada,33376165,2026-11-08T17:00:00Z,Tipsport MCR / Counter-Strike 2 / Esports,Unity Esports,Brute Sq,map3,spread,-4.5,Unity Esports,home,+105,2.05,0
 2026-11-08T15:00:36Z,bovada,33376165,2026-11-08T17:00:00Z,Tipsport MCR / Counter-Strike 2 / Esports,Unity Esports,Brute Sq,map3,spread,4.5,Brute Sq,away,-135,1.741,0
+2026-11-08T15:02:02Z,kambi_paf,1029785641,2026-11-08T13:56:00Z,ESL Challenger League EU Cup,9INE,6yuBoJlbl,series,moneyline,,9INE,9INE,,1.7,0
+2026-11-08T15:02:02Z,kambi_paf,1029785641,2026-11-08T13:56:00Z,ESL Challenger League EU Cup,9INE,6yuBoJlbl,series,moneyline,,6yuBoJlbl,6yuBoJlbl,,2.1,0
+2026-11-08T15:02:02Z,kambi_paf,1029784284,2026-11-08T15:00:00Z,CCT European Series 14,SAW Youngsters,MASONIC,series,moneyline,,SAW Youngsters,SAW Youngsters,,1.79,0
+2026-11-08T15:02:02Z,kambi_paf,1029784284,2026-11-08T15:00:00Z,CCT European Series 14,SAW Youngsters,MASONIC,series,moneyline,,MASONIC,MASONIC,,1.98,0
