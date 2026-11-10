@@ -1000,3 +1000,15 @@ fetched_at,source,event_id,start_time,league,home,away,scope,market,line,outcome
 2026-11-09T20:42:39Z,kambi_paf,1029737117,2026-11-10T19:00:00Z,UKIC Masters,r0s3fr0mh3ll,Legendary100,series,moneyline,,Legendary100,Legendary100,,1.6,0
 2026-11-09T20:42:39Z,kambi_paf,1029800660,2026-11-10T22:00:00Z,CCT South America Series,QUINTESSÊNCIA,RUSH,series,moneyline,,QUINTESSÊNCIA,QUINTESSÊNCIA,,1.93,0
 2026-11-09T20:42:39Z,kambi_paf,1029800660,2026-11-10T22:00:00Z,CCT South America Series,QUINTESSÊNCIA,RUSH,series,moneyline,,RUSH,RUSH,,1.83,0
+2026-11-10T02:56:24Z,bovada,32514201,2026-11-11T02:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Legacy,FURIA Esports,map1,spread,2.5,Legacy,home,-105,1.9524,0
+2026-11-10T02:56:24Z,bovada,32514201,2026-11-11T02:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Legacy,FURIA Esports,map1,spread,-2.5,FURIA Esports,away,-125,1.8,0
+2026-11-10T02:56:24Z,bovada,32514830,2026-11-11T04:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Vitality,Team Falcons,map2,spread,-3.5,Vitality,home,EVEN,2.0,0
+2026-11-10T02:56:24Z,bovada,32514830,2026-11-11T04:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Vitality,Team Falcons,map2,spread,3.5,Team Falcons,away,-130,1.7692,0
+2026-11-10T02:56:24Z,kambi_paf,1029808228,2026-11-10T09:00:00Z,NODWIN Clutch Series,Brute,ILLYRIANS,series,moneyline,,Brute,Brute,,1.38,0
+2026-11-10T02:56:24Z,kambi_paf,1029808228,2026-11-10T09:00:00Z,NODWIN Clutch Series,Brute,ILLYRIANS,series,moneyline,,ILLYRIANS,ILLYRIANS,,2.9,0
+2026-11-10T02:56:24Z,kambi_paf,1029807458,2026-11-10T11:30:00Z,European Pro League,FORZE Reload,MOUZ NXT,series,moneyline,,FORZE Reload,FORZE Reload,,1.35,0
+2026-11-10T02:56:24Z,kambi_paf,1029807458,2026-11-10T11:30:00Z,European Pro League,FORZE Reload,MOUZ NXT,series,moneyline,,MOUZ NXT,MOUZ NXT,,3.05,0
+2026-11-10T02:56:24Z,kambi_paf,1029808258,2026-11-10T12:00:00Z,NODWIN Clutch Series,ACES,BakS eSports,series,moneyline,,ACES,ACES,,1.55,0
+2026-11-10T02:56:24Z,kambi_paf,1029808258,2026-11-10T12:00:00Z,NODWIN Clutch Series,ACES,BakS eSports,series,moneyline,,BakS eSports,BakS eSports,,2.4,0
+2026-11-10T02:56:24Z,kambi_paf,1029808238,2026-11-10T18:00:00Z,NODWIN Clutch Series,NT,GenOne,series,moneyline,,NT,NT,,2.32,0
+2026-11-10T02:56:24Z,kambi_paf,1029808238,2026-11-10T18:00:00Z,NODWIN Clutch Series,NT,GenOne,series,moneyline,,GenOne,GenOne,,1.58,0
