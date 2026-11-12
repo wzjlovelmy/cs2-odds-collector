@@ -2681,3 +2681,379 @@ fetched_at,source,event_id,start_time,league,home,away,scope,market,line,outcome
 2026-11-12T07:56:05Z,kambi_paf,1029833856,2026-11-12T19:00:00Z,CCT South America Series,Procyon,tao toma,series,moneyline,,tao toma,tao toma,,1.56,0
 2026-11-12T07:56:05Z,kambi_paf,1029833853,2026-11-13T13:00:00Z,CCT South America Series,Turma do Pagode,RUSH Gaming,series,moneyline,,Turma do Pagode,Turma do Pagode,,1.24,0
 2026-11-12T07:56:05Z,kambi_paf,1029833853,2026-11-13T13:00:00Z,CCT South America Series,Turma do Pagode,RUSH Gaming,series,moneyline,,RUSH Gaming,RUSH Gaming,,3.8,0
+2026-11-12T16:34:50Z,bovada,33529624,2026-11-12T07:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FUT Esports,MOUZ,live game,moneyline,,FUT Esports,home,+140,2.4,0
+2026-11-12T16:34:50Z,bovada,33529624,2026-11-12T07:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FUT Esports,MOUZ,live game,moneyline,,MOUZ,away,-185,1.5405,0
+2026-11-12T16:34:50Z,bovada,33529624,2026-11-12T07:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FUT Esports,MOUZ,live game,spread,-1.5,FUT Esports,home,+325,4.25,0
+2026-11-12T16:34:50Z,bovada,33529624,2026-11-12T07:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FUT Esports,MOUZ,live game,spread,1.5,MOUZ,away,-500,1.2,0
+2026-11-12T16:34:50Z,bovada,33529624,2026-11-12T07:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FUT Esports,MOUZ,live game,total,2.5,Over,over,-220,1.4545,0
+2026-11-12T16:34:50Z,bovada,33529624,2026-11-12T07:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FUT Esports,MOUZ,live game,total,2.5,Under,under,+165,2.65,0
+2026-11-12T16:34:50Z,bovada,33529624,2026-11-12T07:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FUT Esports,MOUZ,map2,moneyline,,FUT Esports,home,+275,3.75,0
+2026-11-12T16:34:50Z,bovada,33529624,2026-11-12T07:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FUT Esports,MOUZ,map2,moneyline,,MOUZ,away,-400,1.25,0
+2026-11-12T16:34:50Z,bovada,33529624,2026-11-12T07:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FUT Esports,MOUZ,map2,spread,4.5,FUT Esports,home,-135,1.741,0
+2026-11-12T16:34:50Z,bovada,33529624,2026-11-12T07:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FUT Esports,MOUZ,map2,spread,-4.5,MOUZ,away,+105,2.05,0
+2026-11-12T16:34:50Z,bovada,33529624,2026-11-12T07:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FUT Esports,MOUZ,map2,total,20.5,Over,over,-135,1.741,0
+2026-11-12T16:34:50Z,bovada,33529624,2026-11-12T07:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FUT Esports,MOUZ,map2,total,20.5,Under,under,+105,2.05,0
+2026-11-12T16:34:50Z,bovada,33529624,2026-11-12T07:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FUT Esports,MOUZ,live game,spread,1.5,FUT Esports,home,-900,1.1111,1
+2026-11-12T16:34:50Z,bovada,33529624,2026-11-12T07:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FUT Esports,MOUZ,live game,spread,-1.5,MOUZ,away,+500,6.0,1
+2026-11-12T16:34:50Z,bovada,33529624,2026-11-12T07:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FUT Esports,MOUZ,map2,total,14.5,Over,over,-110,1.9091,1
+2026-11-12T16:34:50Z,bovada,33529624,2026-11-12T07:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FUT Esports,MOUZ,map2,total,14.5,Under,under,-130,1.7692,1
+2026-11-12T16:34:50Z,bovada,33529624,2026-11-12T07:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FUT Esports,MOUZ,map2,total,10.5,Over,over,EVEN,2.0,1
+2026-11-12T16:34:50Z,bovada,33529624,2026-11-12T07:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FUT Esports,MOUZ,map2,total,10.5,Under,under,-140,1.7143,1
+2026-11-12T16:34:50Z,bovada,33529624,2026-11-12T07:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FUT Esports,MOUZ,map2,total,14.5,Over,over,-110,1.9091,1
+2026-11-12T16:34:50Z,bovada,33529624,2026-11-12T07:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FUT Esports,MOUZ,map2,total,14.5,Under,under,-130,1.7692,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,series,spread,-1.5,Team Spirit,home,+105,2.05,0
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,series,spread,1.5,G2 Esports,away,-135,1.741,0
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,series,total,2.5,Over,over,+120,2.2,0
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,series,total,2.5,Under,under,-155,1.6452,0
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,spread,-2.5,Team Spirit,home,-125,1.8,0
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,spread,2.5,G2 Esports,away,-105,1.9524,0
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map3,moneyline,,Team Spirit,home,-230,1.4348,0
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map3,moneyline,,G2 Esports,away,+175,2.75,0
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map3,spread,-3.5,Team Spirit,home,-105,1.9524,0
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map3,spread,3.5,G2 Esports,away,-125,1.8,0
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,total,,Team Spirit to Win and Over 21.5 Rounds,home,+250,3.5,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,total,,Team Spirit to Win and Under 21.5 Rounds,home,+150,2.5,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,total,,G2 Esports  to Win and Over 21.5 Rounds,away,+325,4.25,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,total,,G2 Esports  to Win and Under 21.5 Rounds,away,+400,5.0,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map2,total,,Team Spirit to Win and Over 20.5 Rounds,home,+150,2.5,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map2,total,,Team Spirit to Win and Under 20.5 Rounds,home,+175,2.75,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map2,total,,G2 Esports  to Win and Over 20.5 Rounds,away,+350,4.5,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map2,total,,G2 Esports  to Win and Under 20.5 Rounds,away,+600,7.0,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map3,total,,Team Spirit to Win and Over 21.5 Rounds,home,+250,3.5,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map3,total,,Team Spirit to Win and Under 21.5 Rounds,home,+150,2.5,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map3,total,,G2 Esports  to Win and Over 21.5 Rounds,away,+325,4.25,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map3,total,,G2 Esports  to Win and Under 21.5 Rounds,away,+400,5.0,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,total,,Odd,Odd,EVEN,2.0,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,total,,Even,Even,-140,1.7143,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map2,total,,Odd,Odd,EVEN,2.0,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map2,total,,Even,Even,-140,1.7143,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map3,total,,Odd,Odd,EVEN,2.0,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map3,total,,Even,Even,-140,1.7143,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,total,13.5,Over,over,-140,1.7143,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,total,13.5,Under,under,EVEN,2.0,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,total,11.5,Over,over,-130,1.7692,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,total,11.5,Under,under,-110,1.9091,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,total,12.5,Over,over,-110,1.9091,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,total,12.5,Under,under,-130,1.7692,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,total,19.5,Over,over,-135,1.741,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,total,19.5,Under,under,-105,1.9524,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,total,16.5,Over,over,-110,1.9091,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,total,16.5,Under,under,-130,1.7692,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,total,14.5,Over,over,-110,1.9091,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,total,14.5,Under,under,-130,1.7692,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,total,11.5,Over,over,-130,1.7692,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,total,11.5,Under,under,-110,1.9091,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,total,13.5,Over,over,EVEN,2.0,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,total,13.5,Under,under,-140,1.7143,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,total,12.5,Over,over,-110,1.9091,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,total,12.5,Under,under,-130,1.7692,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,total,13.5,Over,over,-135,1.741,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map1,total,13.5,Under,under,-105,1.9524,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map2,total,13.5,Over,over,-140,1.7143,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map2,total,13.5,Under,under,EVEN,2.0,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map2,total,11.5,Over,over,-130,1.7692,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map2,total,11.5,Under,under,-110,1.9091,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map2,total,12.5,Over,over,-110,1.9091,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map2,total,12.5,Under,under,-130,1.7692,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map2,total,19.5,Over,over,-135,1.741,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map2,total,19.5,Under,under,-105,1.9524,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map2,total,16.5,Over,over,-110,1.9091,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map2,total,16.5,Under,under,-130,1.7692,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map2,total,14.5,Over,over,-110,1.9091,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map2,total,14.5,Under,under,-130,1.7692,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map2,total,11.5,Over,over,-130,1.7692,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map2,total,11.5,Under,under,-110,1.9091,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map2,total,13.5,Over,over,EVEN,2.0,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map2,total,13.5,Under,under,-140,1.7143,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map2,total,12.5,Over,over,-110,1.9091,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map2,total,12.5,Under,under,-130,1.7692,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map2,total,13.5,Over,over,-135,1.741,1
+2026-11-12T16:34:50Z,bovada,33529626,2026-11-12T09:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,G2 Esports,map2,total,13.5,Under,under,-105,1.9524,1
+2026-11-12T16:34:50Z,bovada,33546001,2026-11-12T12:00:00Z,Series 13 / CCT Europe / Counter-Strike 2 / Esports,GenOne,Leo Team,series,moneyline,,GenOne,home,+110,2.1,0
+2026-11-12T16:34:50Z,bovada,33546001,2026-11-12T12:00:00Z,Series 13 / CCT Europe / Counter-Strike 2 / Esports,GenOne,Leo Team,series,moneyline,,Leo Team,away,-145,1.69,0
+2026-11-12T16:34:50Z,bovada,33546001,2026-11-12T12:00:00Z,Series 13 / CCT Europe / Counter-Strike 2 / Esports,GenOne,Leo Team,map1,moneyline,,GenOne,home,+105,2.05,0
+2026-11-12T16:34:50Z,bovada,33546001,2026-11-12T12:00:00Z,Series 13 / CCT Europe / Counter-Strike 2 / Esports,GenOne,Leo Team,map1,moneyline,,Leo Team,away,-135,1.741,0
+2026-11-12T16:34:50Z,bovada,33546001,2026-11-12T12:00:00Z,Series 13 / CCT Europe / Counter-Strike 2 / Esports,GenOne,Leo Team,map2,moneyline,,GenOne,home,+105,2.05,0
+2026-11-12T16:34:50Z,bovada,33546001,2026-11-12T12:00:00Z,Series 13 / CCT Europe / Counter-Strike 2 / Esports,GenOne,Leo Team,map2,moneyline,,Leo Team,away,-135,1.741,0
+2026-11-12T16:34:50Z,bovada,33546001,2026-11-12T12:00:00Z,Series 13 / CCT Europe / Counter-Strike 2 / Esports,GenOne,Leo Team,map3,moneyline,,GenOne,home,+105,2.05,0
+2026-11-12T16:34:50Z,bovada,33546001,2026-11-12T12:00:00Z,Series 13 / CCT Europe / Counter-Strike 2 / Esports,GenOne,Leo Team,map3,moneyline,,Leo Team,away,-135,1.741,0
+2026-11-12T16:34:50Z,bovada,33546400,2026-11-12T15:00:00Z,Series 13 / CCT Europe / Counter-Strike 2 / Esports,BakS eSports,The Last Resort,series,moneyline,,BakS eSports,home,-550,1.1818,0
+2026-11-12T16:34:50Z,bovada,33546400,2026-11-12T15:00:00Z,Series 13 / CCT Europe / Counter-Strike 2 / Esports,BakS eSports,The Last Resort,series,moneyline,,The Last Resort,away,+350,4.5,0
+2026-11-12T16:34:50Z,bovada,33546400,2026-11-12T15:00:00Z,Series 13 / CCT Europe / Counter-Strike 2 / Esports,BakS eSports,The Last Resort,map1,moneyline,,BakS eSports,home,-310,1.3226,0
+2026-11-12T16:34:50Z,bovada,33546400,2026-11-12T15:00:00Z,Series 13 / CCT Europe / Counter-Strike 2 / Esports,BakS eSports,The Last Resort,map1,moneyline,,The Last Resort,away,+225,3.25,0
+2026-11-12T16:34:50Z,bovada,33546400,2026-11-12T15:00:00Z,Series 13 / CCT Europe / Counter-Strike 2 / Esports,BakS eSports,The Last Resort,map2,moneyline,,BakS eSports,home,-310,1.3226,0
+2026-11-12T16:34:50Z,bovada,33546400,2026-11-12T15:00:00Z,Series 13 / CCT Europe / Counter-Strike 2 / Esports,BakS eSports,The Last Resort,map2,moneyline,,The Last Resort,away,+225,3.25,0
+2026-11-12T16:34:50Z,bovada,33546400,2026-11-12T15:00:00Z,Series 13 / CCT Europe / Counter-Strike 2 / Esports,BakS eSports,The Last Resort,map3,moneyline,,BakS eSports,home,-310,1.3226,0
+2026-11-12T16:34:50Z,bovada,33546400,2026-11-12T15:00:00Z,Series 13 / CCT Europe / Counter-Strike 2 / Esports,BakS eSports,The Last Resort,map3,moneyline,,The Last Resort,away,+225,3.25,0
+2026-11-12T16:34:50Z,bovada,33543817,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Alliance,Fourmagic,series,moneyline,,Alliance,home,-1600,1.0625,0
+2026-11-12T16:34:50Z,bovada,33543817,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Alliance,Fourmagic,series,moneyline,,Fourmagic,away,+750,8.5,0
+2026-11-12T16:34:50Z,bovada,33543817,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Alliance,Fourmagic,series,spread,-1.5,Alliance,home,-450,1.2222,0
+2026-11-12T16:34:50Z,bovada,33543817,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Alliance,Fourmagic,series,spread,1.5,Fourmagic,away,+300,4.0,0
+2026-11-12T16:34:50Z,bovada,33543817,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Alliance,Fourmagic,map1,moneyline,,Alliance,home,-750,1.1333,0
+2026-11-12T16:34:50Z,bovada,33543817,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Alliance,Fourmagic,map1,moneyline,,Fourmagic,away,+450,5.5,0
+2026-11-12T16:34:50Z,bovada,33543817,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Alliance,Fourmagic,map2,moneyline,,Alliance,home,-800,1.125,0
+2026-11-12T16:34:50Z,bovada,33543817,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Alliance,Fourmagic,map2,moneyline,,Fourmagic,away,+475,5.75,0
+2026-11-12T16:34:50Z,bovada,33543817,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Alliance,Fourmagic,map3,moneyline,,Alliance,home,-800,1.125,0
+2026-11-12T16:34:50Z,bovada,33543817,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Alliance,Fourmagic,map3,moneyline,,Fourmagic,away,+475,5.75,0
+2026-11-12T16:34:50Z,bovada,33543818,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Balkan Outlaws,KUUSAMO,series,moneyline,,Balkan Outlaws,home,-425,1.2353,0
+2026-11-12T16:34:50Z,bovada,33543818,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Balkan Outlaws,KUUSAMO,series,moneyline,,KUUSAMO,away,+285,3.85,0
+2026-11-12T16:34:50Z,bovada,33543818,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Balkan Outlaws,KUUSAMO,series,spread,-1.5,Balkan Outlaws,home,-115,1.87,0
+2026-11-12T16:34:50Z,bovada,33543818,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Balkan Outlaws,KUUSAMO,series,spread,1.5,KUUSAMO,away,-115,1.87,0
+2026-11-12T16:34:50Z,bovada,33543818,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Balkan Outlaws,KUUSAMO,series,total,2.5,Over,over,+120,2.2,0
+2026-11-12T16:34:50Z,bovada,33543818,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Balkan Outlaws,KUUSAMO,series,total,2.5,Under,under,-155,1.6452,0
+2026-11-12T16:34:50Z,bovada,33543818,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Balkan Outlaws,KUUSAMO,map1,moneyline,,Balkan Outlaws,home,-275,1.3636,0
+2026-11-12T16:34:50Z,bovada,33543818,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Balkan Outlaws,KUUSAMO,map1,moneyline,,KUUSAMO,away,+200,3.0,0
+2026-11-12T16:34:50Z,bovada,33543818,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Balkan Outlaws,KUUSAMO,map1,spread,-3.5,Balkan Outlaws,home,-120,1.8333,0
+2026-11-12T16:34:50Z,bovada,33543818,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Balkan Outlaws,KUUSAMO,map1,spread,3.5,KUUSAMO,away,-110,1.9091,0
+2026-11-12T16:34:50Z,bovada,33543818,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Balkan Outlaws,KUUSAMO,map1,total,20.5,Over,over,-120,1.8333,0
+2026-11-12T16:34:50Z,bovada,33543818,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Balkan Outlaws,KUUSAMO,map1,total,20.5,Under,under,-110,1.9091,0
+2026-11-12T16:34:50Z,bovada,33543818,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Balkan Outlaws,KUUSAMO,map2,moneyline,,Balkan Outlaws,home,-285,1.3509,0
+2026-11-12T16:34:50Z,bovada,33543818,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Balkan Outlaws,KUUSAMO,map2,moneyline,,KUUSAMO,away,+210,3.1,0
+2026-11-12T16:34:50Z,bovada,33543818,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Balkan Outlaws,KUUSAMO,map2,spread,-3.5,Balkan Outlaws,home,-125,1.8,0
+2026-11-12T16:34:50Z,bovada,33543818,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Balkan Outlaws,KUUSAMO,map2,spread,3.5,KUUSAMO,away,-105,1.9524,0
+2026-11-12T16:34:50Z,bovada,33543818,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Balkan Outlaws,KUUSAMO,map2,total,20.5,Over,over,-120,1.8333,0
+2026-11-12T16:34:50Z,bovada,33543818,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Balkan Outlaws,KUUSAMO,map2,total,20.5,Under,under,-110,1.9091,0
+2026-11-12T16:34:50Z,bovada,33543818,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Balkan Outlaws,KUUSAMO,map3,moneyline,,Balkan Outlaws,home,-240,1.4167,0
+2026-11-12T16:34:50Z,bovada,33543818,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Balkan Outlaws,KUUSAMO,map3,moneyline,,KUUSAMO,away,+180,2.8,0
+2026-11-12T16:34:50Z,bovada,33543818,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Balkan Outlaws,KUUSAMO,map3,spread,-3.5,Balkan Outlaws,home,-105,1.9524,0
+2026-11-12T16:34:50Z,bovada,33543818,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Balkan Outlaws,KUUSAMO,map3,spread,3.5,KUUSAMO,away,-125,1.8,0
+2026-11-12T16:34:50Z,bovada,33543818,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Balkan Outlaws,KUUSAMO,series,spread,1.5,Balkan Outlaws,home,-1100,1.0909,1
+2026-11-12T16:34:50Z,bovada,33543818,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Balkan Outlaws,KUUSAMO,series,spread,-1.5,KUUSAMO,away,+600,7.0,1
+2026-11-12T16:34:50Z,bovada,33549828,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,INOX Division,Mixlvlt,series,moneyline,,INOX Division,home,-800,1.125,0
+2026-11-12T16:34:50Z,bovada,33549828,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,INOX Division,Mixlvlt,series,moneyline,,Mixlvlt,away,+475,5.75,0
+2026-11-12T16:34:50Z,bovada,33549828,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,INOX Division,Mixlvlt,map1,moneyline,,INOX Division,home,-385,1.26,0
+2026-11-12T16:34:50Z,bovada,33549828,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,INOX Division,Mixlvlt,map1,moneyline,,Mixlvlt,away,+265,3.65,0
+2026-11-12T16:34:50Z,bovada,33549828,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,INOX Division,Mixlvlt,map1,spread,-4.5,INOX Division,home,-115,1.87,0
+2026-11-12T16:34:50Z,bovada,33549828,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,INOX Division,Mixlvlt,map1,spread,4.5,Mixlvlt,away,-115,1.87,0
+2026-11-12T16:34:50Z,bovada,33549828,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,INOX Division,Mixlvlt,map1,total,20.5,Over,over,-115,1.87,0
+2026-11-12T16:34:50Z,bovada,33549828,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,INOX Division,Mixlvlt,map1,total,20.5,Under,under,-115,1.87,0
+2026-11-12T16:34:50Z,bovada,33549828,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,INOX Division,Mixlvlt,map2,moneyline,,INOX Division,home,-385,1.26,0
+2026-11-12T16:34:50Z,bovada,33549828,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,INOX Division,Mixlvlt,map2,moneyline,,Mixlvlt,away,+265,3.65,0
+2026-11-12T16:34:50Z,bovada,33549828,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,INOX Division,Mixlvlt,map2,spread,-4.5,INOX Division,home,-115,1.87,0
+2026-11-12T16:34:50Z,bovada,33549828,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,INOX Division,Mixlvlt,map2,spread,4.5,Mixlvlt,away,-115,1.87,0
+2026-11-12T16:34:50Z,bovada,33549828,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,INOX Division,Mixlvlt,map2,total,20.5,Over,over,-115,1.87,0
+2026-11-12T16:34:50Z,bovada,33549828,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,INOX Division,Mixlvlt,map2,total,20.5,Under,under,-115,1.87,0
+2026-11-12T16:34:50Z,bovada,33549828,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,INOX Division,Mixlvlt,map3,moneyline,,INOX Division,home,-400,1.25,0
+2026-11-12T16:34:50Z,bovada,33549828,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,INOX Division,Mixlvlt,map3,moneyline,,Mixlvlt,away,+275,3.75,0
+2026-11-12T16:34:50Z,bovada,33549828,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,INOX Division,Mixlvlt,series,spread,-1.5,INOX Division,home,-165,1.6061,0
+2026-11-12T16:34:50Z,bovada,33549828,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,INOX Division,Mixlvlt,series,spread,1.5,Mixlvlt,away,+125,2.25,0
+2026-11-12T16:34:50Z,bovada,33557805,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lavked,Dnk,series,moneyline,,Lavked,home,-360,1.2778,0
+2026-11-12T16:34:50Z,bovada,33557805,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lavked,Dnk,series,moneyline,,Dnk,away,+255,3.55,0
+2026-11-12T16:34:50Z,bovada,33557805,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lavked,Dnk,series,spread,-1.5,Lavked,home,EVEN,2.0,0
+2026-11-12T16:34:50Z,bovada,33557805,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lavked,Dnk,series,spread,1.5,Dnk,away,-130,1.7692,0
+2026-11-12T16:34:50Z,bovada,33557805,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lavked,Dnk,series,total,2.5,Over,over,+130,2.3,0
+2026-11-12T16:34:50Z,bovada,33557805,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lavked,Dnk,series,total,2.5,Under,under,-170,1.5882,0
+2026-11-12T16:34:50Z,bovada,33557805,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lavked,Dnk,map1,moneyline,,Lavked,home,-260,1.3846,0
+2026-11-12T16:34:50Z,bovada,33557805,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lavked,Dnk,map1,moneyline,,Dnk,away,+190,2.9,0
+2026-11-12T16:34:50Z,bovada,33557805,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lavked,Dnk,map1,spread,-3.5,Lavked,home,-110,1.9091,0
+2026-11-12T16:34:50Z,bovada,33557805,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lavked,Dnk,map1,spread,3.5,Dnk,away,-120,1.8333,0
+2026-11-12T16:34:50Z,bovada,33557805,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lavked,Dnk,map1,total,20.5,Over,over,-150,1.6667,0
+2026-11-12T16:34:50Z,bovada,33557805,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lavked,Dnk,map1,total,20.5,Under,under,+115,2.15,0
+2026-11-12T16:34:50Z,bovada,33557805,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lavked,Dnk,map2,moneyline,,Lavked,home,-260,1.3846,0
+2026-11-12T16:34:50Z,bovada,33557805,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lavked,Dnk,map2,moneyline,,Dnk,away,+190,2.9,0
+2026-11-12T16:34:50Z,bovada,33557805,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lavked,Dnk,map2,spread,-3.5,Lavked,home,-110,1.9091,0
+2026-11-12T16:34:50Z,bovada,33557805,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lavked,Dnk,map2,spread,3.5,Dnk,away,-120,1.8333,0
+2026-11-12T16:34:50Z,bovada,33557805,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lavked,Dnk,map2,total,20.5,Over,over,-150,1.6667,0
+2026-11-12T16:34:50Z,bovada,33557805,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lavked,Dnk,map2,total,20.5,Under,under,+115,2.15,0
+2026-11-12T16:34:50Z,bovada,33557805,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lavked,Dnk,map3,moneyline,,Lavked,home,-240,1.4167,0
+2026-11-12T16:34:50Z,bovada,33557805,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lavked,Dnk,map3,moneyline,,Dnk,away,+180,2.8,0
+2026-11-12T16:34:50Z,bovada,33557805,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lavked,Dnk,map3,spread,-3.5,Lavked,home,-105,1.9524,0
+2026-11-12T16:34:50Z,bovada,33557805,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lavked,Dnk,map3,spread,3.5,Dnk,away,-125,1.8,0
+2026-11-12T16:34:50Z,bovada,33557805,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lavked,Dnk,series,spread,1.5,Lavked,home,-1000,1.1,1
+2026-11-12T16:34:50Z,bovada,33557805,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lavked,Dnk,series,spread,-1.5,Dnk,away,+550,6.5,1
+2026-11-12T16:34:50Z,bovada,33557599,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lph Gaming,Maybe,series,moneyline,,Lph Gaming,home,-110,1.9091,0
+2026-11-12T16:34:50Z,bovada,33557599,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lph Gaming,Maybe,series,moneyline,,Maybe,away,-120,1.8333,0
+2026-11-12T16:34:50Z,bovada,33557599,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lph Gaming,Maybe,series,spread,1.5,Lph Gaming,home,-325,1.3077,0
+2026-11-12T16:34:50Z,bovada,33557599,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lph Gaming,Maybe,series,spread,-1.5,Maybe,away,+230,3.3,0
+2026-11-12T16:34:50Z,bovada,33557599,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lph Gaming,Maybe,map1,moneyline,,Lph Gaming,home,-110,1.9091,0
+2026-11-12T16:34:50Z,bovada,33557599,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lph Gaming,Maybe,map1,moneyline,,Maybe,away,-120,1.8333,0
+2026-11-12T16:34:50Z,bovada,33557599,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lph Gaming,Maybe,map1,spread,2.5,Lph Gaming,home,-165,1.6061,0
+2026-11-12T16:34:50Z,bovada,33557599,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lph Gaming,Maybe,map1,spread,-2.5,Maybe,away,+125,2.25,0
+2026-11-12T16:34:50Z,bovada,33557599,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lph Gaming,Maybe,map1,total,21.5,Over,over,-110,1.9091,0
+2026-11-12T16:34:50Z,bovada,33557599,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lph Gaming,Maybe,map1,total,21.5,Under,under,-120,1.8333,0
+2026-11-12T16:34:50Z,bovada,33557599,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lph Gaming,Maybe,map2,moneyline,,Lph Gaming,home,-110,1.9091,0
+2026-11-12T16:34:50Z,bovada,33557599,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lph Gaming,Maybe,map2,moneyline,,Maybe,away,-120,1.8333,0
+2026-11-12T16:34:50Z,bovada,33557599,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lph Gaming,Maybe,map2,spread,2.5,Lph Gaming,home,-165,1.6061,0
+2026-11-12T16:34:50Z,bovada,33557599,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lph Gaming,Maybe,map2,spread,-2.5,Maybe,away,+125,2.25,0
+2026-11-12T16:34:50Z,bovada,33557599,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lph Gaming,Maybe,map2,total,21.5,Over,over,-110,1.9091,0
+2026-11-12T16:34:50Z,bovada,33557599,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Lph Gaming,Maybe,map2,total,21.5,Under,under,-120,1.8333,0
+2026-11-12T16:34:50Z,bovada,33558004,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Saint Sinners,Titanflow,series,moneyline,,Saint Sinners,home,-310,1.3226,0
+2026-11-12T16:34:50Z,bovada,33558004,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Saint Sinners,Titanflow,series,moneyline,,Titanflow,away,+225,3.25,0
+2026-11-12T16:34:50Z,bovada,33558004,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Saint Sinners,Titanflow,series,spread,-1.5,Saint Sinners,home,+125,2.25,0
+2026-11-12T16:34:50Z,bovada,33558004,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Saint Sinners,Titanflow,series,spread,1.5,Titanflow,away,-165,1.6061,0
+2026-11-12T16:34:50Z,bovada,33558004,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Saint Sinners,Titanflow,map1,moneyline,,Saint Sinners,home,-220,1.4545,0
+2026-11-12T16:34:50Z,bovada,33558004,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Saint Sinners,Titanflow,map1,moneyline,,Titanflow,away,+165,2.65,0
+2026-11-12T16:34:50Z,bovada,33558004,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Saint Sinners,Titanflow,map1,spread,-3.5,Saint Sinners,home,+105,2.05,0
+2026-11-12T16:34:50Z,bovada,33558004,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Saint Sinners,Titanflow,map1,spread,3.5,Titanflow,away,-135,1.741,0
+2026-11-12T16:34:50Z,bovada,33558004,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Saint Sinners,Titanflow,map1,total,21.5,Over,over,+105,2.05,0
+2026-11-12T16:34:50Z,bovada,33558004,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Saint Sinners,Titanflow,map1,total,21.5,Under,under,-135,1.741,0
+2026-11-12T16:34:50Z,bovada,33558004,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Saint Sinners,Titanflow,map2,moneyline,,Saint Sinners,home,-220,1.4545,0
+2026-11-12T16:34:50Z,bovada,33558004,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Saint Sinners,Titanflow,map2,moneyline,,Titanflow,away,+165,2.65,0
+2026-11-12T16:34:50Z,bovada,33558004,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Saint Sinners,Titanflow,map2,spread,-3.5,Saint Sinners,home,+105,2.05,0
+2026-11-12T16:34:50Z,bovada,33558004,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Saint Sinners,Titanflow,map2,spread,3.5,Titanflow,away,-135,1.741,0
+2026-11-12T16:34:50Z,bovada,33558004,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Saint Sinners,Titanflow,map2,total,21.5,Over,over,+105,2.05,0
+2026-11-12T16:34:50Z,bovada,33558004,2026-11-12T14:00:00Z,Europe / ESL Challenger League / Counter-Strike 2 / Esports,Saint Sinners,Titanflow,map2,total,21.5,Under,under,-135,1.741,0
+2026-11-12T16:34:50Z,bovada,33546272,2026-11-12T09:00:00Z,Series 14 / CCT Europe / Counter-Strike 2 / Esports,The Last Resort,MASONIC,series,moneyline,,The Last Resort,home,+120,2.2,0
+2026-11-12T16:34:50Z,bovada,33546272,2026-11-12T09:00:00Z,Series 14 / CCT Europe / Counter-Strike 2 / Esports,The Last Resort,MASONIC,series,moneyline,,MASONIC,away,-155,1.6452,0
+2026-11-12T16:34:50Z,bovada,33546272,2026-11-12T09:00:00Z,Series 14 / CCT Europe / Counter-Strike 2 / Esports,The Last Resort,MASONIC,series,spread,1.5,The Last Resort,home,-230,1.4348,0
+2026-11-12T16:34:50Z,bovada,33546272,2026-11-12T09:00:00Z,Series 14 / CCT Europe / Counter-Strike 2 / Esports,The Last Resort,MASONIC,series,spread,-1.5,MASONIC,away,+175,2.75,0
+2026-11-12T16:34:50Z,bovada,33546272,2026-11-12T09:00:00Z,Series 14 / CCT Europe / Counter-Strike 2 / Esports,The Last Resort,MASONIC,series,total,2.5,Over,over,-110,1.9091,0
+2026-11-12T16:34:50Z,bovada,33546272,2026-11-12T09:00:00Z,Series 14 / CCT Europe / Counter-Strike 2 / Esports,The Last Resort,MASONIC,series,total,2.5,Under,under,-120,1.8333,0
+2026-11-12T16:34:50Z,bovada,33546272,2026-11-12T09:00:00Z,Series 14 / CCT Europe / Counter-Strike 2 / Esports,The Last Resort,MASONIC,map1,moneyline,,The Last Resort,home,+110,2.1,0
+2026-11-12T16:34:50Z,bovada,33546272,2026-11-12T09:00:00Z,Series 14 / CCT Europe / Counter-Strike 2 / Esports,The Last Resort,MASONIC,map1,moneyline,,MASONIC,away,-145,1.69,0
+2026-11-12T16:34:50Z,bovada,33546272,2026-11-12T09:00:00Z,Series 14 / CCT Europe / Counter-Strike 2 / Esports,The Last Resort,MASONIC,map1,spread,2.5,The Last Resort,home,-130,1.7692,0
+2026-11-12T16:34:50Z,bovada,33546272,2026-11-12T09:00:00Z,Series 14 / CCT Europe / Counter-Strike 2 / Esports,The Last Resort,MASONIC,map1,spread,-2.5,MASONIC,away,EVEN,2.0,0
+2026-11-12T16:34:50Z,bovada,33546272,2026-11-12T09:00:00Z,Series 14 / CCT Europe / Counter-Strike 2 / Esports,The Last Resort,MASONIC,map2,moneyline,,The Last Resort,home,+110,2.1,0
+2026-11-12T16:34:50Z,bovada,33546272,2026-11-12T09:00:00Z,Series 14 / CCT Europe / Counter-Strike 2 / Esports,The Last Resort,MASONIC,map2,moneyline,,MASONIC,away,-145,1.69,0
+2026-11-12T16:34:50Z,bovada,33546272,2026-11-12T09:00:00Z,Series 14 / CCT Europe / Counter-Strike 2 / Esports,The Last Resort,MASONIC,map2,spread,2.5,The Last Resort,home,-130,1.7692,0
+2026-11-12T16:34:50Z,bovada,33546272,2026-11-12T09:00:00Z,Series 14 / CCT Europe / Counter-Strike 2 / Esports,The Last Resort,MASONIC,map2,spread,-2.5,MASONIC,away,EVEN,2.0,0
+2026-11-12T16:34:50Z,bovada,33546272,2026-11-12T09:00:00Z,Series 14 / CCT Europe / Counter-Strike 2 / Esports,The Last Resort,MASONIC,map3,moneyline,,The Last Resort,home,+110,2.1,0
+2026-11-12T16:34:50Z,bovada,33546272,2026-11-12T09:00:00Z,Series 14 / CCT Europe / Counter-Strike 2 / Esports,The Last Resort,MASONIC,map3,moneyline,,MASONIC,away,-145,1.69,0
+2026-11-12T16:34:50Z,bovada,33546272,2026-11-12T09:00:00Z,Series 14 / CCT Europe / Counter-Strike 2 / Esports,The Last Resort,MASONIC,map3,spread,2.5,The Last Resort,home,-130,1.7692,0
+2026-11-12T16:34:50Z,bovada,33546272,2026-11-12T09:00:00Z,Series 14 / CCT Europe / Counter-Strike 2 / Esports,The Last Resort,MASONIC,map3,spread,-2.5,MASONIC,away,EVEN,2.0,0
+2026-11-12T16:34:50Z,bovada,33546272,2026-11-12T09:00:00Z,Series 14 / CCT Europe / Counter-Strike 2 / Esports,The Last Resort,MASONIC,series,spread,-1.5,The Last Resort,home,+300,4.0,1
+2026-11-12T16:34:50Z,bovada,33546272,2026-11-12T09:00:00Z,Series 14 / CCT Europe / Counter-Strike 2 / Esports,The Last Resort,MASONIC,series,spread,1.5,MASONIC,away,-450,1.2222,1
+2026-11-12T16:34:50Z,bovada,33562410,2026-11-12T16:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Ex-Yawara E-Sports,Isurus,series,moneyline,,Ex-Yawara E-Sports,home,-135,1.741,0
+2026-11-12T16:34:50Z,bovada,33562410,2026-11-12T16:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Ex-Yawara E-Sports,Isurus,series,moneyline,,Isurus,away,+105,2.05,0
+2026-11-12T16:34:50Z,bovada,33562410,2026-11-12T16:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Ex-Yawara E-Sports,Isurus,series,spread,-1.5,Ex-Yawara E-Sports,home,+190,2.9,0
+2026-11-12T16:34:50Z,bovada,33562410,2026-11-12T16:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Ex-Yawara E-Sports,Isurus,series,spread,1.5,Isurus,away,-260,1.3846,0
+2026-11-12T16:34:50Z,bovada,33562410,2026-11-12T16:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Ex-Yawara E-Sports,Isurus,series,total,2.5,Over,over,EVEN,2.0,0
+2026-11-12T16:34:50Z,bovada,33562410,2026-11-12T16:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Ex-Yawara E-Sports,Isurus,series,total,2.5,Under,under,-130,1.7692,0
+2026-11-12T16:34:50Z,bovada,33562410,2026-11-12T16:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Ex-Yawara E-Sports,Isurus,map1,moneyline,,Ex-Yawara E-Sports,home,-130,1.7692,0
+2026-11-12T16:34:50Z,bovada,33562410,2026-11-12T16:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Ex-Yawara E-Sports,Isurus,map1,moneyline,,Isurus,away,EVEN,2.0,0
+2026-11-12T16:34:50Z,bovada,33562410,2026-11-12T16:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Ex-Yawara E-Sports,Isurus,map2,moneyline,,Ex-Yawara E-Sports,home,-130,1.7692,0
+2026-11-12T16:34:50Z,bovada,33562410,2026-11-12T16:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Ex-Yawara E-Sports,Isurus,map2,moneyline,,Isurus,away,EVEN,2.0,0
+2026-11-12T16:34:50Z,bovada,33562410,2026-11-12T16:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Ex-Yawara E-Sports,Isurus,map3,moneyline,,Ex-Yawara E-Sports,home,-130,1.7692,0
+2026-11-12T16:34:50Z,bovada,33562410,2026-11-12T16:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Ex-Yawara E-Sports,Isurus,map3,moneyline,,Isurus,away,EVEN,2.0,0
+2026-11-12T16:34:50Z,bovada,33550216,2026-11-12T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Procyon Gaming,Tao Toma,series,moneyline,,Procyon Gaming,home,+140,2.4,0
+2026-11-12T16:34:50Z,bovada,33550216,2026-11-12T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Procyon Gaming,Tao Toma,series,moneyline,,Tao Toma,away,-185,1.5405,0
+2026-11-12T16:34:50Z,bovada,33550216,2026-11-12T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Procyon Gaming,Tao Toma,series,spread,1.5,Procyon Gaming,home,-205,1.4878,0
+2026-11-12T16:34:50Z,bovada,33550216,2026-11-12T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Procyon Gaming,Tao Toma,series,spread,-1.5,Tao Toma,away,+155,2.55,0
+2026-11-12T16:34:50Z,bovada,33550216,2026-11-12T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Procyon Gaming,Tao Toma,series,total,2.5,Over,over,+105,2.05,0
+2026-11-12T16:34:50Z,bovada,33550216,2026-11-12T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Procyon Gaming,Tao Toma,series,total,2.5,Under,under,-135,1.741,0
+2026-11-12T16:34:50Z,bovada,33550216,2026-11-12T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Procyon Gaming,Tao Toma,map1,moneyline,,Procyon Gaming,home,+125,2.25,0
+2026-11-12T16:34:50Z,bovada,33550216,2026-11-12T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Procyon Gaming,Tao Toma,map1,moneyline,,Tao Toma,away,-165,1.6061,0
+2026-11-12T16:34:50Z,bovada,33550216,2026-11-12T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Procyon Gaming,Tao Toma,map2,moneyline,,Procyon Gaming,home,+120,2.2,0
+2026-11-12T16:34:50Z,bovada,33550216,2026-11-12T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Procyon Gaming,Tao Toma,map2,moneyline,,Tao Toma,away,-155,1.6452,0
+2026-11-12T16:34:50Z,bovada,33550216,2026-11-12T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Procyon Gaming,Tao Toma,map3,moneyline,,Procyon Gaming,home,+120,2.2,0
+2026-11-12T16:34:50Z,bovada,33550216,2026-11-12T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Procyon Gaming,Tao Toma,map3,moneyline,,Tao Toma,away,-155,1.6452,0
+2026-11-12T16:34:50Z,bovada,33562212,2026-11-13T13:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Turma do Pagode,rush gaming,series,moneyline,,Turma do Pagode,home,-375,1.2667,0
+2026-11-12T16:34:50Z,bovada,33562212,2026-11-13T13:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Turma do Pagode,rush gaming,series,moneyline,,rush gaming,away,+260,3.6,0
+2026-11-12T16:34:50Z,bovada,33562212,2026-11-13T13:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Turma do Pagode,rush gaming,series,spread,-1.5,Turma do Pagode,home,-110,1.9091,0
+2026-11-12T16:34:50Z,bovada,33562212,2026-11-13T13:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Turma do Pagode,rush gaming,series,spread,1.5,rush gaming,away,-120,1.8333,0
+2026-11-12T16:34:50Z,bovada,33562212,2026-11-13T13:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Turma do Pagode,rush gaming,series,total,2.5,Over,over,+125,2.25,0
+2026-11-12T16:34:50Z,bovada,33562212,2026-11-13T13:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Turma do Pagode,rush gaming,series,total,2.5,Under,under,-165,1.6061,0
+2026-11-12T16:34:50Z,bovada,33562212,2026-11-13T13:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Turma do Pagode,rush gaming,map1,moneyline,,Turma do Pagode,home,-240,1.4167,0
+2026-11-12T16:34:50Z,bovada,33562212,2026-11-13T13:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Turma do Pagode,rush gaming,map1,moneyline,,rush gaming,away,+180,2.8,0
+2026-11-12T16:34:50Z,bovada,33562212,2026-11-13T13:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Turma do Pagode,rush gaming,map1,spread,-3.5,Turma do Pagode,home,-110,1.9091,0
+2026-11-12T16:34:50Z,bovada,33562212,2026-11-13T13:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Turma do Pagode,rush gaming,map1,spread,3.5,rush gaming,away,-120,1.8333,0
+2026-11-12T16:34:50Z,bovada,33562212,2026-11-13T13:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Turma do Pagode,rush gaming,map2,moneyline,,Turma do Pagode,home,-240,1.4167,0
+2026-11-12T16:34:50Z,bovada,33562212,2026-11-13T13:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Turma do Pagode,rush gaming,map2,moneyline,,rush gaming,away,+180,2.8,0
+2026-11-12T16:34:50Z,bovada,33562212,2026-11-13T13:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Turma do Pagode,rush gaming,map2,spread,-3.5,Turma do Pagode,home,-110,1.9091,0
+2026-11-12T16:34:50Z,bovada,33562212,2026-11-13T13:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Turma do Pagode,rush gaming,map2,spread,3.5,rush gaming,away,-120,1.8333,0
+2026-11-12T16:34:50Z,bovada,33562212,2026-11-13T13:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Turma do Pagode,rush gaming,map3,moneyline,,Turma do Pagode,home,-240,1.4167,0
+2026-11-12T16:34:50Z,bovada,33562212,2026-11-13T13:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Turma do Pagode,rush gaming,map3,moneyline,,rush gaming,away,+180,2.8,0
+2026-11-12T16:34:50Z,bovada,33562212,2026-11-13T13:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Turma do Pagode,rush gaming,map3,spread,-3.5,Turma do Pagode,home,-110,1.9091,0
+2026-11-12T16:34:50Z,bovada,33562212,2026-11-13T13:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Turma do Pagode,rush gaming,map3,spread,3.5,rush gaming,away,-120,1.8333,0
+2026-11-12T16:34:50Z,bovada,33562212,2026-11-13T13:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Turma do Pagode,rush gaming,series,spread,1.5,Turma do Pagode,home,-900,1.1111,1
+2026-11-12T16:34:50Z,bovada,33562212,2026-11-13T13:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Turma do Pagode,rush gaming,series,spread,-1.5,rush gaming,away,+500,6.0,1
+2026-11-12T16:34:50Z,bovada,33563025,2026-11-13T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Alka,Low Cortisol,series,moneyline,,Alka,home,+200,3.0,0
+2026-11-12T16:34:50Z,bovada,33563025,2026-11-13T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Alka,Low Cortisol,series,moneyline,,Low Cortisol,away,-275,1.3636,0
+2026-11-12T16:34:50Z,bovada,33563025,2026-11-13T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Alka,Low Cortisol,series,spread,1.5,Alka,home,-150,1.6667,0
+2026-11-12T16:34:50Z,bovada,33563025,2026-11-13T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Alka,Low Cortisol,series,spread,-1.5,Low Cortisol,away,+115,2.15,0
+2026-11-12T16:34:50Z,bovada,33563025,2026-11-13T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Alka,Low Cortisol,series,total,2.5,Over,over,+110,2.1,0
+2026-11-12T16:34:50Z,bovada,33563025,2026-11-13T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Alka,Low Cortisol,series,total,2.5,Under,under,-145,1.69,0
+2026-11-12T16:34:50Z,bovada,33563025,2026-11-13T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Alka,Low Cortisol,map1,moneyline,,Alka,home,+155,2.55,0
+2026-11-12T16:34:50Z,bovada,33563025,2026-11-13T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Alka,Low Cortisol,map1,moneyline,,Low Cortisol,away,-205,1.4878,0
+2026-11-12T16:34:50Z,bovada,33563025,2026-11-13T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Alka,Low Cortisol,map1,spread,2.5,Alka,home,+105,2.05,0
+2026-11-12T16:34:50Z,bovada,33563025,2026-11-13T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Alka,Low Cortisol,map1,spread,-2.5,Low Cortisol,away,-135,1.741,0
+2026-11-12T16:34:50Z,bovada,33563025,2026-11-13T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Alka,Low Cortisol,map2,moneyline,,Alka,home,+155,2.55,0
+2026-11-12T16:34:50Z,bovada,33563025,2026-11-13T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Alka,Low Cortisol,map2,moneyline,,Low Cortisol,away,-205,1.4878,0
+2026-11-12T16:34:50Z,bovada,33563025,2026-11-13T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Alka,Low Cortisol,map2,spread,2.5,Alka,home,+105,2.05,0
+2026-11-12T16:34:50Z,bovada,33563025,2026-11-13T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Alka,Low Cortisol,map2,spread,-2.5,Low Cortisol,away,-135,1.741,0
+2026-11-12T16:34:50Z,bovada,33563025,2026-11-13T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Alka,Low Cortisol,map3,moneyline,,Alka,home,+155,2.55,0
+2026-11-12T16:34:50Z,bovada,33563025,2026-11-13T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Alka,Low Cortisol,map3,moneyline,,Low Cortisol,away,-205,1.4878,0
+2026-11-12T16:34:50Z,bovada,33563025,2026-11-13T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Alka,Low Cortisol,map3,spread,2.5,Alka,home,+105,2.05,0
+2026-11-12T16:34:50Z,bovada,33563025,2026-11-13T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Alka,Low Cortisol,map3,spread,-2.5,Low Cortisol,away,-135,1.741,0
+2026-11-12T16:34:50Z,bovada,33563025,2026-11-13T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Alka,Low Cortisol,series,spread,-1.5,Alka,home,+425,5.25,1
+2026-11-12T16:34:50Z,bovada,33563025,2026-11-13T19:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Alka,Low Cortisol,series,spread,1.5,Low Cortisol,away,-700,1.1429,1
+2026-11-12T16:34:50Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,series,moneyline,,Barca eSports,home,-525,1.19,0
+2026-11-12T16:34:50Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,series,moneyline,,Borracheiros,away,+340,4.4,0
+2026-11-12T16:34:50Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,map1,moneyline,,Barca eSports,home,-300,1.3333,0
+2026-11-12T16:34:50Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,map1,moneyline,,Borracheiros,away,+220,3.2,0
+2026-11-12T16:34:50Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,map2,moneyline,,Barca eSports,home,-300,1.3333,0
+2026-11-12T16:34:50Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,map2,moneyline,,Borracheiros,away,+220,3.2,0
+2026-11-12T16:34:50Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,map3,moneyline,,Barca eSports,home,-300,1.3333,0
+2026-11-12T16:34:50Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,map3,moneyline,,Borracheiros,away,+220,3.2,0
+2026-11-12T16:34:50Z,bovada,33517606,2026-11-12T09:00:00Z,European Pro League / Counter-Strike 2 / Esports,Mouz NXT,Natus Vincere Junior,series,moneyline,,Mouz NXT,home,+120,2.2,0
+2026-11-12T16:34:50Z,bovada,33517606,2026-11-12T09:00:00Z,European Pro League / Counter-Strike 2 / Esports,Mouz NXT,Natus Vincere Junior,series,moneyline,,Natus Vincere Junior,away,-155,1.6452,0
+2026-11-12T16:34:50Z,bovada,33517606,2026-11-12T09:00:00Z,European Pro League / Counter-Strike 2 / Esports,Mouz NXT,Natus Vincere Junior,series,spread,1.5,Mouz NXT,home,-250,1.4,0
+2026-11-12T16:34:50Z,bovada,33517606,2026-11-12T09:00:00Z,European Pro League / Counter-Strike 2 / Esports,Mouz NXT,Natus Vincere Junior,series,spread,-1.5,Natus Vincere Junior,away,+185,2.85,0
+2026-11-12T16:34:50Z,bovada,33517606,2026-11-12T09:00:00Z,European Pro League / Counter-Strike 2 / Esports,Mouz NXT,Natus Vincere Junior,map1,moneyline,,Mouz NXT,home,+105,2.05,0
+2026-11-12T16:34:50Z,bovada,33517606,2026-11-12T09:00:00Z,European Pro League / Counter-Strike 2 / Esports,Mouz NXT,Natus Vincere Junior,map1,moneyline,,Natus Vincere Junior,away,-135,1.741,0
+2026-11-12T16:34:50Z,bovada,33517606,2026-11-12T09:00:00Z,European Pro League / Counter-Strike 2 / Esports,Mouz NXT,Natus Vincere Junior,map1,spread,2.5,Mouz NXT,home,-135,1.741,0
+2026-11-12T16:34:50Z,bovada,33517606,2026-11-12T09:00:00Z,European Pro League / Counter-Strike 2 / Esports,Mouz NXT,Natus Vincere Junior,map1,spread,-2.5,Natus Vincere Junior,away,+105,2.05,0
+2026-11-12T16:34:50Z,bovada,33517606,2026-11-12T09:00:00Z,European Pro League / Counter-Strike 2 / Esports,Mouz NXT,Natus Vincere Junior,map2,moneyline,,Mouz NXT,home,+105,2.05,0
+2026-11-12T16:34:50Z,bovada,33517606,2026-11-12T09:00:00Z,European Pro League / Counter-Strike 2 / Esports,Mouz NXT,Natus Vincere Junior,map2,moneyline,,Natus Vincere Junior,away,-135,1.741,0
+2026-11-12T16:34:50Z,bovada,33517606,2026-11-12T09:00:00Z,European Pro League / Counter-Strike 2 / Esports,Mouz NXT,Natus Vincere Junior,map2,spread,2.5,Mouz NXT,home,-130,1.7692,0
+2026-11-12T16:34:50Z,bovada,33517606,2026-11-12T09:00:00Z,European Pro League / Counter-Strike 2 / Esports,Mouz NXT,Natus Vincere Junior,map2,spread,-2.5,Natus Vincere Junior,away,EVEN,2.0,0
+2026-11-12T16:34:50Z,bovada,33517606,2026-11-12T09:00:00Z,European Pro League / Counter-Strike 2 / Esports,Mouz NXT,Natus Vincere Junior,series,spread,-1.5,Mouz NXT,home,+300,4.0,1
+2026-11-12T16:34:50Z,bovada,33517606,2026-11-12T09:00:00Z,European Pro League / Counter-Strike 2 / Esports,Mouz NXT,Natus Vincere Junior,series,spread,1.5,Natus Vincere Junior,away,-450,1.2222,1
+2026-11-12T16:34:50Z,bovada,33544603,2026-11-12T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Phantom Esports,illyrians,series,moneyline,,Phantom Esports,home,-475,1.2105,0
+2026-11-12T16:34:50Z,bovada,33544603,2026-11-12T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Phantom Esports,illyrians,series,moneyline,,illyrians,away,+315,4.15,0
+2026-11-12T16:34:50Z,bovada,33544603,2026-11-12T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Phantom Esports,illyrians,map1,moneyline,,Phantom Esports,home,-300,1.3333,0
+2026-11-12T16:34:50Z,bovada,33544603,2026-11-12T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Phantom Esports,illyrians,map1,moneyline,,illyrians,away,+220,3.2,0
+2026-11-12T16:34:50Z,bovada,33544603,2026-11-12T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Phantom Esports,illyrians,map2,moneyline,,Phantom Esports,home,-300,1.3333,0
+2026-11-12T16:34:50Z,bovada,33544603,2026-11-12T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Phantom Esports,illyrians,map2,moneyline,,illyrians,away,+220,3.2,0
+2026-11-12T16:34:50Z,bovada,33544603,2026-11-12T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Phantom Esports,illyrians,map3,moneyline,,Phantom Esports,home,-300,1.3333,0
+2026-11-12T16:34:50Z,bovada,33544603,2026-11-12T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Phantom Esports,illyrians,map3,moneyline,,illyrians,away,+220,3.2,0
+2026-11-12T16:34:50Z,bovada,33543423,2026-11-12T15:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Ex-Zero Tenacity,Nice Try,series,moneyline,,Ex-Zero Tenacity,home,-450,1.2222,0
+2026-11-12T16:34:50Z,bovada,33543423,2026-11-12T15:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Ex-Zero Tenacity,Nice Try,series,moneyline,,Nice Try,away,+300,4.0,0
+2026-11-12T16:34:50Z,bovada,33543423,2026-11-12T15:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Ex-Zero Tenacity,Nice Try,map1,moneyline,,Ex-Zero Tenacity,home,-275,1.3636,0
+2026-11-12T16:34:50Z,bovada,33543423,2026-11-12T15:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Ex-Zero Tenacity,Nice Try,map1,moneyline,,Nice Try,away,+200,3.0,0
+2026-11-12T16:34:50Z,bovada,33543423,2026-11-12T15:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Ex-Zero Tenacity,Nice Try,map2,moneyline,,Ex-Zero Tenacity,home,-275,1.3636,0
+2026-11-12T16:34:50Z,bovada,33543423,2026-11-12T15:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Ex-Zero Tenacity,Nice Try,map2,moneyline,,Nice Try,away,+200,3.0,0
+2026-11-12T16:34:50Z,bovada,33543423,2026-11-12T15:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Ex-Zero Tenacity,Nice Try,map3,moneyline,,Ex-Zero Tenacity,home,-275,1.3636,0
+2026-11-12T16:34:50Z,bovada,33543423,2026-11-12T15:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Ex-Zero Tenacity,Nice Try,map3,moneyline,,Nice Try,away,+200,3.0,0
+2026-11-12T16:34:50Z,bovada,33543424,2026-11-12T18:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Ex-Rustec,Spirit Academy,map1,moneyline,,Ex-Rustec,home,+105,2.05,0
+2026-11-12T16:34:50Z,bovada,33543424,2026-11-12T18:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Ex-Rustec,Spirit Academy,map1,moneyline,,Spirit Academy,away,-135,1.741,0
+2026-11-12T16:34:50Z,bovada,33543424,2026-11-12T18:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Ex-Rustec,Spirit Academy,map2,moneyline,,Ex-Rustec,home,+105,2.05,0
+2026-11-12T16:34:50Z,bovada,33543424,2026-11-12T18:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Ex-Rustec,Spirit Academy,map2,moneyline,,Spirit Academy,away,-135,1.741,0
+2026-11-12T16:34:50Z,bovada,33543424,2026-11-12T18:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Ex-Rustec,Spirit Academy,map3,moneyline,,Ex-Rustec,home,+105,2.05,0
+2026-11-12T16:34:50Z,bovada,33543424,2026-11-12T18:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Ex-Rustec,Spirit Academy,map3,moneyline,,Spirit Academy,away,-135,1.741,0
+2026-11-12T16:34:50Z,bovada,33543424,2026-11-12T18:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Ex-Rustec,Spirit Academy,series,moneyline,,Ex-Rustec,home,+110,2.1,0
+2026-11-12T16:34:50Z,bovada,33543424,2026-11-12T18:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Ex-Rustec,Spirit Academy,series,moneyline,,Spirit Academy,away,-145,1.69,0
+2026-11-12T16:34:50Z,bovada,33563024,2026-11-13T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Brute,Team 33,series,moneyline,,Brute,home,-110,1.9091,0
+2026-11-12T16:34:50Z,bovada,33563024,2026-11-13T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Brute,Team 33,series,moneyline,,Team 33,away,-120,1.8333,0
+2026-11-12T16:34:50Z,bovada,33563024,2026-11-13T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Brute,Team 33,series,spread,1.5,Brute,home,-300,1.3333,0
+2026-11-12T16:34:50Z,bovada,33563024,2026-11-13T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Brute,Team 33,series,spread,-1.5,Team 33,away,+220,3.2,0
+2026-11-12T16:34:50Z,bovada,33563024,2026-11-13T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Brute,Team 33,series,total,2.5,Over,over,-105,1.9524,0
+2026-11-12T16:34:50Z,bovada,33563024,2026-11-13T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Brute,Team 33,series,total,2.5,Under,under,-125,1.8,0
+2026-11-12T16:34:50Z,bovada,33563024,2026-11-13T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Brute,Team 33,map1,moneyline,,Brute,home,-110,1.9091,0
+2026-11-12T16:34:50Z,bovada,33563024,2026-11-13T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Brute,Team 33,map1,moneyline,,Team 33,away,-120,1.8333,0
+2026-11-12T16:34:50Z,bovada,33563024,2026-11-13T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Brute,Team 33,map1,spread,2.5,Brute,home,-155,1.6452,0
+2026-11-12T16:34:50Z,bovada,33563024,2026-11-13T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Brute,Team 33,map1,spread,-2.5,Team 33,away,+120,2.2,0
+2026-11-12T16:34:50Z,bovada,33563024,2026-11-13T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Brute,Team 33,map2,moneyline,,Brute,home,-110,1.9091,0
+2026-11-12T16:34:50Z,bovada,33563024,2026-11-13T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Brute,Team 33,map2,moneyline,,Team 33,away,-120,1.8333,0
+2026-11-12T16:34:50Z,bovada,33563024,2026-11-13T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Brute,Team 33,map2,spread,2.5,Brute,home,-155,1.6452,0
+2026-11-12T16:34:50Z,bovada,33563024,2026-11-13T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Brute,Team 33,map2,spread,-2.5,Team 33,away,+120,2.2,0
+2026-11-12T16:34:50Z,bovada,33563024,2026-11-13T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Brute,Team 33,map3,moneyline,,Brute,home,-110,1.9091,0
+2026-11-12T16:34:50Z,bovada,33563024,2026-11-13T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Brute,Team 33,map3,moneyline,,Team 33,away,-120,1.8333,0
+2026-11-12T16:34:50Z,bovada,33563024,2026-11-13T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Brute,Team 33,map3,spread,2.5,Brute,home,-155,1.6452,0
+2026-11-12T16:34:50Z,bovada,33563024,2026-11-13T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Brute,Team 33,map3,spread,-2.5,Team 33,away,+120,2.2,0
+2026-11-12T16:34:50Z,bovada,33563024,2026-11-13T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Brute,Team 33,series,spread,-1.5,Brute,home,+230,3.3,1
+2026-11-12T16:34:50Z,bovada,33563024,2026-11-13T09:00:00Z,Nodwin Clutch Series / Counter-Strike 2 / Esports,Brute,Team 33,series,spread,1.5,Team 33,away,-325,1.3077,1
+2026-11-12T16:34:50Z,kambi_paf,1029840870,2026-11-12T18:10:00Z,CCT European Series 13,Team ACES,MAYBE,series,moneyline,,MAYBE,MAYBE,,4.2,0
+2026-11-12T16:34:50Z,kambi_paf,1029840870,2026-11-12T18:10:00Z,CCT European Series 13,Team ACES,MAYBE,series,moneyline,,Team ACES,Team ACES,,1.2,0
+2026-11-12T16:34:50Z,kambi_paf,1029833239,2026-11-12T18:10:00Z,NODWIN Clutch Series,ex-RUSTEC,Team Spirit Academy,series,moneyline,,Team Spirit Academy,Team Spirit Academy,,1.72,0
+2026-11-12T16:34:50Z,kambi_paf,1029833239,2026-11-12T18:10:00Z,NODWIN Clutch Series,ex-RUSTEC,Team Spirit Academy,series,moneyline,,ex-RUSTEC,ex-RUSTEC,,2.08,0
+2026-11-12T16:34:50Z,kambi_paf,1029840110,2026-11-13T08:00:00Z,BLAST Rivals Fall,Team Vitality,MOUZ,series,moneyline,,Team Vitality,Team Vitality,,1.73,0
+2026-11-12T16:34:50Z,kambi_paf,1029840110,2026-11-13T08:00:00Z,BLAST Rivals Fall,Team Vitality,MOUZ,series,moneyline,,MOUZ,MOUZ,,2.06,0
+2026-11-12T16:34:50Z,kambi_paf,1029833506,2026-11-13T09:00:00Z,CCT European Series 14,Butterfly,Leo Team,series,moneyline,,Butterfly,Butterfly,,1.3,0
+2026-11-12T16:34:50Z,kambi_paf,1029833506,2026-11-13T09:00:00Z,CCT European Series 14,Butterfly,Leo Team,series,moneyline,,Leo Team,Leo Team,,3.3,0
+2026-11-12T16:34:50Z,kambi_paf,1029833240,2026-11-13T09:00:00Z,NODWIN Clutch Series,Brute,BET-M 33,series,moneyline,,Brute,Brute,,2.0,0
+2026-11-12T16:34:50Z,kambi_paf,1029833240,2026-11-13T09:00:00Z,NODWIN Clutch Series,Brute,BET-M 33,series,moneyline,,BET-M 33,BET-M 33,,1.77,0
+2026-11-12T16:34:50Z,kambi_paf,1029841630,2026-11-13T10:30:00Z,BLAST Rivals Fall,G2 Esports,Team Falcons,series,moneyline,,G2 Esports,G2 Esports,,2.85,0
+2026-11-12T16:34:50Z,kambi_paf,1029841630,2026-11-13T10:30:00Z,BLAST Rivals Fall,G2 Esports,Team Falcons,series,moneyline,,Team Falcons,Team Falcons,,1.4,0
+2026-11-12T16:34:50Z,kambi_paf,1029737519,2026-11-17T13:30:00Z,STK Ranked,BIG,Sangal Esports,series,moneyline,,Sangal Esports,Sangal Esports,,2.35,0
+2026-11-12T16:34:50Z,kambi_paf,1029737519,2026-11-17T13:30:00Z,STK Ranked,BIG,Sangal Esports,series,moneyline,,BIG,BIG,,1.57,0
