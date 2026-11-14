@@ -1,425 +1,439 @@
 fetched_at,source,event_id,start_time,league,home,away,scope,market,line,outcome,team,price_us,price_dec,is_alt
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,series,moneyline,,Team Spirit,home,+105,2.05,0
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,series,moneyline,,MOUZ,away,-135,1.741,0
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,series,spread,1.5,Team Spirit,home,-285,1.3509,0
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,series,spread,-1.5,MOUZ,away,+210,3.1,0
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,series,total,2.5,Over,over,EVEN,2.0,0
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,series,total,2.5,Under,under,-130,1.7692,0
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,moneyline,,Team Spirit,home,+115,2.15,0
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,moneyline,,MOUZ,away,-150,1.6667,0
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,2.5,Team Spirit,home,-130,1.7692,0
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,-2.5,MOUZ,away,EVEN,2.0,0
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,21.5,Over,over,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,21.5,Under,under,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,moneyline,,Team Spirit,home,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,moneyline,,MOUZ,away,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,2.5,Team Spirit,home,-170,1.5882,0
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,-2.5,MOUZ,away,+130,2.3,0
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,total,21.5,Over,over,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,total,21.5,Under,under,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map3,moneyline,,Team Spirit,home,EVEN,2.0,0
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map3,moneyline,,MOUZ,away,-130,1.7692,0
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map3,spread,2.5,Team Spirit,home,-150,1.6667,0
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map3,spread,-2.5,MOUZ,away,+115,2.15,0
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map3,total,21.5,Over,over,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map3,total,21.5,Under,under,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,series,spread,-1.5,Team Spirit,home,+285,3.85,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,series,spread,1.5,MOUZ,away,-425,1.2353,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,1.5,Team Spirit,home,+115,2.15,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,-1.5,MOUZ,away,-150,1.6667,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,-3.5,Team Spirit,home,+150,2.5,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,3.5,MOUZ,away,-200,1.5,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,5.5,Team Spirit,home,-115,1.87,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,-5.5,MOUZ,away,-115,1.87,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,6.5,Team Spirit,home,-120,1.8333,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,-6.5,MOUZ,away,-110,1.9091,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,-8.5,Team Spirit,home,+180,2.8,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,8.5,MOUZ,away,-240,1.4167,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,11.5,Team Spirit,home,-185,1.5405,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,-11.5,MOUZ,away,+140,2.4,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,16.5,Team Spirit,home,-325,1.3077,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,-16.5,MOUZ,away,+230,3.3,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,-1.5,Team Spirit,home,+105,2.05,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,1.5,MOUZ,away,-135,1.741,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,3.5,Team Spirit,home,-135,1.741,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,-3.5,MOUZ,away,+105,2.05,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,-6.5,Team Spirit,home,+130,2.3,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,6.5,MOUZ,away,-170,1.5882,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,8.5,Team Spirit,home,-185,1.5405,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,-8.5,MOUZ,away,+140,2.4,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,-11.5,Team Spirit,home,+200,3.0,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,11.5,MOUZ,away,-275,1.3636,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,13.5,Team Spirit,home,-275,1.3636,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,-13.5,MOUZ,away,+200,3.0,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,,Team Spirit to Win and Over 21.5 Rounds,home,+330,4.3,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,,Team Spirit to Win and Under 21.5 Rounds,home,+260,3.6,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,,MOUZ  to Win and Over 21.5 Rounds,away,+240,3.4,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,,MOUZ  to Win and Under 21.5 Rounds,away,+220,3.2,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,total,,Team Spirit to Win and Over 21.5 Rounds,home,+250,3.5,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,total,,Team Spirit to Win and Under 21.5 Rounds,home,+240,3.4,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,total,,MOUZ  to Win and Over 21.5 Rounds,away,+300,4.0,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,total,,MOUZ  to Win and Under 21.5 Rounds,away,+250,3.5,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map3,total,,Team Spirit to Win and Over 21.5 Rounds,home,+275,3.75,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map3,total,,Team Spirit to Win and Under 21.5 Rounds,home,+250,3.5,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map3,total,,MOUZ  to Win and Over 21.5 Rounds,away,+260,3.6,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map3,total,,MOUZ  to Win and Under 21.5 Rounds,away,+235,3.35,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,,Odd,Odd,EVEN,2.0,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,,Even,Even,-140,1.7143,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,total,,Odd,Odd,EVEN,2.0,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,total,,Even,Even,-140,1.7143,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map3,total,,Odd,Odd,EVEN,2.0,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map3,total,,Even,Even,-140,1.7143,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,14.5,Over,over,-140,1.7143,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,14.5,Under,under,EVEN,2.0,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,13.5,Over,over,-140,1.7143,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,13.5,Under,under,EVEN,2.0,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,13.5,Over,over,-140,1.7143,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,13.5,Under,under,EVEN,2.0,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,11.5,Over,over,-125,1.8,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,11.5,Under,under,-115,1.87,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,18.5,Over,over,-130,1.7692,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,18.5,Under,under,-110,1.9091,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,15.5,Over,over,-120,1.8333,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,15.5,Under,under,-120,1.8333,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,14.5,Over,over,-130,1.7692,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,14.5,Under,under,-110,1.9091,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,14.5,Over,over,-140,1.7143,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,14.5,Under,under,EVEN,2.0,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,12.5,Over,over,-150,1.6667,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,12.5,Under,under,+105,2.05,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,14.5,Over,over,-120,1.8333,1
-2026-11-13T23:22:36Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,14.5,Under,under,-120,1.8333,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,series,moneyline,,FURIA Esports,home,-125,1.8,0
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,series,moneyline,,Team Falcons,away,-105,1.9524,0
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,series,spread,-1.5,FURIA Esports,home,+230,3.3,0
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,series,spread,1.5,Team Falcons,away,-325,1.3077,0
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,series,total,2.5,Over,over,-105,1.9524,0
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,series,total,2.5,Under,under,-125,1.8,0
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,moneyline,,FURIA Esports,home,-105,1.9524,0
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,moneyline,,Team Falcons,away,-125,1.8,0
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,2.5,FURIA Esports,home,-155,1.6452,0
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,-2.5,Team Falcons,away,+120,2.2,0
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,21.5,Over,over,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,21.5,Under,under,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,moneyline,,FURIA Esports,home,-135,1.741,0
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,moneyline,,Team Falcons,away,+105,2.05,0
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,spread,-2.5,FURIA Esports,home,+105,2.05,0
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,spread,2.5,Team Falcons,away,-135,1.741,0
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,total,21.5,Over,over,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,total,21.5,Under,under,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map3,moneyline,,FURIA Esports,home,-120,1.8333,0
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map3,moneyline,,Team Falcons,away,-110,1.9091,0
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map3,spread,-2.5,FURIA Esports,home,+115,2.15,0
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map3,spread,2.5,Team Falcons,away,-150,1.6667,0
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map3,total,21.5,Over,over,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map3,total,21.5,Under,under,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,series,spread,1.5,FURIA Esports,home,-385,1.26,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,series,spread,-1.5,Team Falcons,away,+265,3.65,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,-1.5,FURIA Esports,home,+105,2.05,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,1.5,Team Falcons,away,-135,1.741,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,2.5,FURIA Esports,home,-115,1.87,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,-2.5,Team Falcons,away,-115,1.87,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,3.5,FURIA Esports,home,-120,1.8333,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,-3.5,Team Falcons,away,-110,1.9091,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,-6.5,FURIA Esports,home,+140,2.4,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,6.5,Team Falcons,away,-185,1.5405,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,8.5,FURIA Esports,home,-170,1.5882,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,-8.5,Team Falcons,away,+130,2.3,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,-11.5,FURIA Esports,home,+180,2.8,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,11.5,Team Falcons,away,-240,1.4167,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,13.5,FURIA Esports,home,-275,1.3636,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,-13.5,Team Falcons,away,+200,3.0,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,spread,1.5,FURIA Esports,home,-150,1.6667,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,spread,-1.5,Team Falcons,away,+115,2.15,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,spread,6.5,FURIA Esports,home,-200,1.5,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,spread,-6.5,Team Falcons,away,+150,2.5,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,spread,-8.5,FURIA Esports,home,+125,2.25,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,spread,8.5,Team Falcons,away,-165,1.6061,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,spread,-13.5,FURIA Esports,home,+180,2.8,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,spread,13.5,Team Falcons,away,-240,1.4167,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,spread,-18.5,FURIA Esports,home,+300,4.0,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,spread,18.5,Team Falcons,away,-450,1.2222,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,,FURIA Esports to Win and Over 21.5 Rounds,home,+330,4.3,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,,FURIA Esports to Win and Under 21.5 Rounds,home,+275,3.75,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,,Team Falcons  to Win and Over 21.5 Rounds,away,+240,3.4,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,,Team Falcons  to Win and Under 21.5 Rounds,away,+210,3.1,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,total,,FURIA Esports to Win and Over 21.5 Rounds,home,+250,3.5,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,total,,FURIA Esports to Win and Under 21.5 Rounds,home,+240,3.4,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,total,,Team Falcons  to Win and Over 21.5 Rounds,away,+300,4.0,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,total,,Team Falcons  to Win and Under 21.5 Rounds,away,+250,3.5,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map3,total,,FURIA Esports to Win and Over 21.5 Rounds,home,+260,3.6,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map3,total,,FURIA Esports to Win and Under 21.5 Rounds,home,+260,3.6,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map3,total,,Team Falcons  to Win and Over 21.5 Rounds,away,+260,3.6,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map3,total,,Team Falcons  to Win and Under 21.5 Rounds,away,+230,3.3,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,,Odd,Odd,EVEN,2.0,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,,Even,Even,-140,1.7143,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,total,,Odd,Odd,EVEN,2.0,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,total,,Even,Even,-140,1.7143,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map3,total,,Odd,Odd,EVEN,2.0,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map3,total,,Even,Even,-140,1.7143,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,15.5,Over,over,-140,1.7143,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,15.5,Under,under,EVEN,2.0,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,10.5,Over,over,-120,1.8333,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,10.5,Under,under,-120,1.8333,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,11.5,Over,over,-125,1.8,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,11.5,Under,under,-115,1.87,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,17.5,Over,over,-140,1.7143,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,17.5,Under,under,EVEN,2.0,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,15.5,Over,over,-130,1.7692,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,15.5,Under,under,-110,1.9091,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,14.5,Over,over,-140,1.7143,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,14.5,Under,under,EVEN,2.0,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,15.5,Over,over,-120,1.8333,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,15.5,Under,under,-120,1.8333,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,14.5,Over,over,-125,1.8,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,14.5,Under,under,-115,1.87,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,13.5,Over,over,-130,1.7692,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,13.5,Under,under,-110,1.9091,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,12.5,Over,over,-135,1.741,1
-2026-11-13T23:22:36Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,12.5,Under,under,-105,1.9524,1
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,series,moneyline,,Inner Circle,home,-130,1.7692,0
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,series,moneyline,,Betclic Apogee,away,EVEN,2.0,0
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,series,spread,-1.5,Inner Circle,home,+220,3.2,0
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,series,spread,1.5,Betclic Apogee,away,-300,1.3333,0
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,series,total,2.5,Over,over,-110,1.9091,0
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,series,total,2.5,Under,under,-120,1.8333,0
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,moneyline,,Inner Circle,home,-120,1.8333,0
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,moneyline,,Betclic Apogee,away,-110,1.9091,0
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,-2.5,Inner Circle,home,+125,2.25,0
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,2.5,Betclic Apogee,away,-165,1.6061,0
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,total,21.5,Over,over,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,total,21.5,Under,under,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,moneyline,,Inner Circle,home,-135,1.741,0
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,moneyline,,Betclic Apogee,away,+105,2.05,0
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,spread,-2.5,Inner Circle,home,+105,2.05,0
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,spread,2.5,Betclic Apogee,away,-135,1.741,0
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,total,21.5,Over,over,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,total,21.5,Under,under,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map3,moneyline,,Inner Circle,home,-125,1.8,0
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map3,moneyline,,Betclic Apogee,away,-105,1.9524,0
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map3,spread,-2.5,Inner Circle,home,+115,2.15,0
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map3,spread,2.5,Betclic Apogee,away,-150,1.6667,0
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map3,total,21.5,Over,over,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map3,total,21.5,Under,under,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,series,spread,1.5,Inner Circle,home,-400,1.25,1
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,series,spread,-1.5,Betclic Apogee,away,+275,3.75,1
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,-1.5,Inner Circle,home,+105,2.05,1
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,1.5,Betclic Apogee,away,-135,1.741,1
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,2.5,Inner Circle,home,-120,1.8333,1
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,-2.5,Betclic Apogee,away,-110,1.9091,1
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,3.5,Inner Circle,home,-135,1.741,1
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,-3.5,Betclic Apogee,away,+105,2.05,1
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,-6.5,Inner Circle,home,+130,2.3,1
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,6.5,Betclic Apogee,away,-170,1.5882,1
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,8.5,Inner Circle,home,-185,1.5405,1
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,-8.5,Betclic Apogee,away,+140,2.4,1
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,-11.5,Inner Circle,home,+180,2.8,1
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,11.5,Betclic Apogee,away,-240,1.4167,1
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,13.5,Inner Circle,home,-310,1.3226,1
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,-13.5,Betclic Apogee,away,+225,3.25,1
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,spread,0.5,Inner Circle,home,-165,1.6061,1
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,spread,-0.5,Betclic Apogee,away,+125,2.25,1
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,spread,5.5,Inner Circle,home,-200,1.5,1
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,spread,-5.5,Betclic Apogee,away,+150,2.5,1
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,spread,-9.5,Inner Circle,home,+130,2.3,1
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,spread,9.5,Betclic Apogee,away,-170,1.5882,1
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,spread,-14.5,Inner Circle,home,+200,3.0,1
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,spread,14.5,Betclic Apogee,away,-275,1.3636,1
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,spread,-19.5,Inner Circle,home,+300,4.0,1
-2026-11-13T23:22:36Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,spread,19.5,Betclic Apogee,away,-450,1.2222,1
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,series,moneyline,,BIG,home,-170,1.5882,0
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,series,moneyline,,Sangal Esports,away,+130,2.3,0
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,series,spread,-1.5,BIG,home,+175,2.75,0
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,series,spread,1.5,Sangal Esports,away,-230,1.4348,0
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,series,total,2.5,Over,over,-110,1.9091,0
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,series,total,2.5,Under,under,-120,1.8333,0
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,moneyline,,BIG,home,-135,1.741,0
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,moneyline,,Sangal Esports,away,+105,2.05,0
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,-2.5,BIG,home,+105,2.05,0
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,2.5,Sangal Esports,away,-135,1.741,0
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,total,21.5,Over,over,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,total,21.5,Under,under,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,moneyline,,BIG,home,-155,1.6452,0
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,moneyline,,Sangal Esports,away,+120,2.2,0
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,spread,-2.5,BIG,home,-110,1.9091,0
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,spread,2.5,Sangal Esports,away,-120,1.8333,0
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,total,21.5,Over,over,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,total,21.5,Under,under,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map3,moneyline,,BIG,home,-150,1.6667,0
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map3,moneyline,,Sangal Esports,away,+115,2.15,0
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map3,spread,-2.5,BIG,home,-105,1.9524,0
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map3,spread,2.5,Sangal Esports,away,-125,1.8,0
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map3,total,21.5,Over,over,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map3,total,21.5,Under,under,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,series,spread,1.5,BIG,home,-525,1.19,1
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,series,spread,-1.5,Sangal Esports,away,+340,4.4,1
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,2.5,BIG,home,-150,1.6667,1
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,-2.5,Sangal Esports,away,+115,2.15,1
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,-2.5,BIG,home,-115,1.87,1
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,2.5,Sangal Esports,away,-115,1.87,1
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,7.5,BIG,home,-200,1.5,1
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,-7.5,Sangal Esports,away,+150,2.5,1
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,-7.5,BIG,home,+125,2.25,1
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,7.5,Sangal Esports,away,-165,1.6061,1
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,-12.5,BIG,home,+165,2.65,1
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,12.5,Sangal Esports,away,-220,1.4545,1
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,-17.5,BIG,home,+275,3.75,1
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,17.5,Sangal Esports,away,-400,1.25,1
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,spread,-1.5,BIG,home,-165,1.6061,1
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,spread,1.5,Sangal Esports,away,+125,2.25,1
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,spread,3.5,BIG,home,-200,1.5,1
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,spread,-3.5,Sangal Esports,away,+150,2.5,1
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,spread,-11.5,BIG,home,+130,2.3,1
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,spread,11.5,Sangal Esports,away,-170,1.5882,1
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,spread,-16.5,BIG,home,+225,3.25,1
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,spread,16.5,Sangal Esports,away,-310,1.3226,1
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,spread,-21.5,BIG,home,+325,4.25,1
-2026-11-13T23:22:36Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,spread,21.5,Sangal Esports,away,-500,1.2,1
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,series,moneyline,,Ninjas in Pyjamas,home,-550,1.1818,0
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,series,moneyline,,Unity Esports,away,+350,4.5,0
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,series,spread,-1.5,Ninjas in Pyjamas,home,-135,1.741,0
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,series,spread,1.5,Unity Esports,away,+105,2.05,0
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,series,total,2.5,Over,over,+140,2.4,0
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,series,total,2.5,Under,under,-185,1.5405,0
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,moneyline,,Ninjas in Pyjamas,home,-300,1.3333,0
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,moneyline,,Unity Esports,away,+220,3.2,0
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,-3.5,Ninjas in Pyjamas,home,-125,1.8,0
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,3.5,Unity Esports,away,-105,1.9524,0
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,total,20.5,Over,over,-135,1.741,0
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,total,20.5,Under,under,+105,2.05,0
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,moneyline,,Ninjas in Pyjamas,home,-350,1.2857,0
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,moneyline,,Unity Esports,away,+250,3.5,0
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,spread,-4.5,Ninjas in Pyjamas,home,+105,2.05,0
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,spread,4.5,Unity Esports,away,-135,1.741,0
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,total,20.5,Over,over,-135,1.741,0
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,total,20.5,Under,under,+105,2.05,0
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map3,moneyline,,Ninjas in Pyjamas,home,-300,1.3333,0
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map3,moneyline,,Unity Esports,away,+220,3.2,0
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map3,spread,-3.5,Ninjas in Pyjamas,home,-130,1.7692,0
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map3,spread,3.5,Unity Esports,away,EVEN,2.0,0
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map3,total,20.5,Over,over,-145,1.69,0
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map3,total,20.5,Under,under,+110,2.1,0
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,series,spread,1.5,Ninjas in Pyjamas,home,-1200,1.0833,1
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,series,spread,-1.5,Unity Esports,away,+650,7.5,1
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,-1.5,Ninjas in Pyjamas,home,-275,1.3636,1
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,1.5,Unity Esports,away,+200,3.0,1
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,-6.5,Ninjas in Pyjamas,home,-170,1.5882,1
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,6.5,Unity Esports,away,+130,2.3,1
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,-11.5,Ninjas in Pyjamas,home,-115,1.87,1
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,11.5,Unity Esports,away,-115,1.87,1
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,-16.5,Ninjas in Pyjamas,home,+140,2.4,1
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,16.5,Unity Esports,away,-185,1.5405,1
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,-21.5,Ninjas in Pyjamas,home,+230,3.3,1
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,21.5,Unity Esports,away,-325,1.3077,1
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,-26.5,Ninjas in Pyjamas,home,+425,5.25,1
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,26.5,Unity Esports,away,-700,1.1429,1
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,spread,-3.5,Ninjas in Pyjamas,home,-310,1.3226,1
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,spread,3.5,Unity Esports,away,+225,3.25,1
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,spread,-8.5,Ninjas in Pyjamas,home,-185,1.5405,1
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,spread,8.5,Unity Esports,away,+140,2.4,1
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,spread,-18.5,Ninjas in Pyjamas,home,+150,2.5,1
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,spread,18.5,Unity Esports,away,-200,1.5,1
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,spread,-23.5,Ninjas in Pyjamas,home,+275,3.75,1
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,spread,23.5,Unity Esports,away,-400,1.25,1
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,spread,-28.5,Ninjas in Pyjamas,home,+550,6.5,1
-2026-11-13T23:22:36Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,spread,28.5,Unity Esports,away,-1000,1.1,1
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,series,moneyline,,GamerLegion,home,-150,1.6667,0
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,series,moneyline,,Luminosity,away,+115,2.15,0
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,series,spread,-1.5,GamerLegion,home,+200,3.0,0
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,series,spread,1.5,Luminosity,away,-275,1.3636,0
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,series,total,2.5,Over,over,-110,1.9091,0
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,series,total,2.5,Under,under,-120,1.8333,0
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,moneyline,,GamerLegion,home,-150,1.6667,0
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,moneyline,,Luminosity,away,+115,2.15,0
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,-2.5,GamerLegion,home,EVEN,2.0,0
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,2.5,Luminosity,away,-130,1.7692,0
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,total,21.5,Over,over,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,total,21.5,Under,under,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,moneyline,,GamerLegion,home,-125,1.8,0
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,moneyline,,Luminosity,away,-105,1.9524,0
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,spread,-2.5,GamerLegion,home,+115,2.15,0
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,spread,2.5,Luminosity,away,-150,1.6667,0
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,total,21.5,Over,over,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,total,21.5,Under,under,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map3,moneyline,,GamerLegion,home,-145,1.69,0
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map3,moneyline,,Luminosity,away,+110,2.1,0
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map3,spread,-2.5,GamerLegion,home,+105,2.05,0
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map3,spread,2.5,Luminosity,away,-135,1.741,0
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map3,total,21.5,Over,over,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map3,total,21.5,Under,under,-115,1.87,0
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,series,spread,1.5,GamerLegion,home,-425,1.2353,1
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,series,spread,-1.5,Luminosity,away,+285,3.85,1
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,0.5,GamerLegion,home,-165,1.6061,1
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,-0.5,Luminosity,away,+125,2.25,1
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,-4.5,GamerLegion,home,-115,1.87,1
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,4.5,Luminosity,away,-115,1.87,1
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,5.5,GamerLegion,home,-200,1.5,1
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,-5.5,Luminosity,away,+150,2.5,1
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,-9.5,GamerLegion,home,+125,2.25,1
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,9.5,Luminosity,away,-165,1.6061,1
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,-14.5,GamerLegion,home,+180,2.8,1
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,14.5,Luminosity,away,-240,1.4167,1
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,-19.5,GamerLegion,home,+300,4.0,1
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,19.5,Luminosity,away,-450,1.2222,1
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,spread,2.5,GamerLegion,home,-135,1.741,1
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,spread,-2.5,Luminosity,away,+105,2.05,1
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,spread,7.5,GamerLegion,home,-185,1.5405,1
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,spread,-7.5,Luminosity,away,+140,2.4,1
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,spread,-7.5,GamerLegion,home,+130,2.3,1
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,spread,7.5,Luminosity,away,-170,1.5882,1
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,spread,-12.5,GamerLegion,home,+180,2.8,1
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,spread,12.5,Luminosity,away,-240,1.4167,1
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,spread,-17.5,GamerLegion,home,+275,3.75,1
-2026-11-13T23:22:36Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,spread,17.5,Luminosity,away,-400,1.25,1
-2026-11-13T23:22:36Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,live game,moneyline,,Barca eSports,home,-1400,1.0714,0
-2026-11-13T23:22:36Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,live game,moneyline,,Borracheiros,away,+700,8.0,0
-2026-11-13T23:22:36Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,live game,spread,-1.5,Barca eSports,home,-240,1.4167,0
-2026-11-13T23:22:36Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,live game,spread,1.5,Borracheiros,away,+180,2.8,0
-2026-11-13T23:22:36Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,live game,total,2.5,Over,over,+180,2.8,0
-2026-11-13T23:22:36Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,live game,total,2.5,Under,under,-240,1.4167,0
-2026-11-13T23:22:36Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,map2,moneyline,,Barca eSports,home,-240,1.4167,0
-2026-11-13T23:22:36Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,map2,moneyline,,Borracheiros,away,+180,2.8,0
-2026-11-13T23:22:36Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,map2,spread,-2.5,Barca eSports,home,-155,1.6452,0
-2026-11-13T23:22:36Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,map2,spread,2.5,Borracheiros,away,+120,2.2,0
-2026-11-13T23:22:36Z,kambi_paf,1029851476,2026-11-14T08:00:00Z,BLAST Rivals Fall,Team Spirit,MOUZ,series,moneyline,,Team Spirit,Team Spirit,,2.08,0
-2026-11-13T23:22:36Z,kambi_paf,1029851476,2026-11-14T08:00:00Z,BLAST Rivals Fall,Team Spirit,MOUZ,series,moneyline,,MOUZ,MOUZ,,1.72,0
-2026-11-13T23:22:36Z,kambi_paf,1029856370,2026-11-14T09:00:00Z,European Pro League,GenOne,Balkan Outlaws,series,moneyline,,GenOne,GenOne,,1.67,0
-2026-11-13T23:22:36Z,kambi_paf,1029856370,2026-11-14T09:00:00Z,European Pro League,GenOne,Balkan Outlaws,series,moneyline,,Balkan Outlaws,Balkan Outlaws,,2.16,0
-2026-11-13T23:22:36Z,kambi_paf,1029855688,2026-11-14T09:00:00Z,NODWIN Clutch Series,FORZE Reload,NT,series,moneyline,,FORZE Reload,FORZE Reload,,1.4,0
-2026-11-13T23:22:36Z,kambi_paf,1029855688,2026-11-14T09:00:00Z,NODWIN Clutch Series,FORZE Reload,NT,series,moneyline,,NT,NT,,2.85,0
-2026-11-13T23:22:36Z,kambi_paf,1029851106,2026-11-14T09:30:00Z,United21,WOPA Esport,EYEBALLERS,series,moneyline,,WOPA Esport,WOPA Esport,,3.15,0
-2026-11-13T23:22:36Z,kambi_paf,1029851106,2026-11-14T09:30:00Z,United21,WOPA Esport,EYEBALLERS,series,moneyline,,EYEBALLERS,EYEBALLERS,,1.33,0
-2026-11-13T23:22:36Z,kambi_paf,1029853234,2026-11-14T10:30:00Z,BLAST Rivals Fall,FURIA Esports,Team Falcons,series,moneyline,,FURIA Esports,FURIA Esports,,1.74,0
-2026-11-13T23:22:36Z,kambi_paf,1029853234,2026-11-14T10:30:00Z,BLAST Rivals Fall,FURIA Esports,Team Falcons,series,moneyline,,Team Falcons,Team Falcons,,2.04,0
-2026-11-13T23:22:36Z,kambi_paf,1029856371,2026-11-14T11:30:00Z,European Pro League,9INE,WRAITH PCIFIC,series,moneyline,,9INE,9INE,,1.33,0
-2026-11-13T23:22:36Z,kambi_paf,1029856371,2026-11-14T11:30:00Z,European Pro League,9INE,WRAITH PCIFIC,series,moneyline,,WRAITH PCIFIC,WRAITH PCIFIC,,3.2,0
-2026-11-13T23:22:36Z,kambi_paf,1029845256,2026-11-14T12:00:00Z,CCT European Series 13,Virtus.Pro,BakS eSports,series,moneyline,,Virtus.Pro,Virtus.Pro,,1.28,0
-2026-11-13T23:22:36Z,kambi_paf,1029845256,2026-11-14T12:00:00Z,CCT European Series 13,Virtus.Pro,BakS eSports,series,moneyline,,BakS eSports,BakS eSports,,3.45,0
-2026-11-13T23:22:36Z,kambi_paf,1029856501,2026-11-14T14:00:00Z,ESL Challenger League EU Cup,Alliance,ex-INOX,series,moneyline,,Alliance,Alliance,,1.32,0
-2026-11-13T23:22:36Z,kambi_paf,1029856501,2026-11-14T14:00:00Z,ESL Challenger League EU Cup,Alliance,ex-INOX,series,moneyline,,ex-INOX,ex-INOX,,3.2,0
-2026-11-13T23:22:36Z,kambi_paf,1029836800,2026-11-17T10:00:00Z,RUSH:Brno,Sinners Esports,Nexus Gaming,series,moneyline,,Sinners Esports,Sinners Esports,,1.29,0
-2026-11-13T23:22:36Z,kambi_paf,1029836800,2026-11-17T10:00:00Z,RUSH:Brno,Sinners Esports,Nexus Gaming,series,moneyline,,Nexus Gaming,Nexus Gaming,,3.35,0
-2026-11-13T23:22:36Z,kambi_paf,1029836802,2026-11-17T13:00:00Z,RUSH:Brno,Alliance,Iberian Soul,series,moneyline,,Alliance,Alliance,,1.67,0
-2026-11-13T23:22:36Z,kambi_paf,1029836802,2026-11-17T13:00:00Z,RUSH:Brno,Alliance,Iberian Soul,series,moneyline,,Iberian Soul,Iberian Soul,,2.12,0
-2026-11-13T23:22:36Z,kambi_paf,1029737519,2026-11-17T13:30:00Z,STK Ranked,BIG,Sangal Esports,series,moneyline,,Sangal Esports,Sangal Esports,,2.35,0
-2026-11-13T23:22:36Z,kambi_paf,1029737519,2026-11-17T13:30:00Z,STK Ranked,BIG,Sangal Esports,series,moneyline,,BIG,BIG,,1.57,0
-2026-11-13T23:22:36Z,kambi_paf,1029737513,2026-11-17T16:00:00Z,STK Ranked,Ninjas in Pyjamas,UNiTY Esports,series,moneyline,,Ninjas in Pyjamas,Ninjas in Pyjamas,,1.15,0
-2026-11-13T23:22:36Z,kambi_paf,1029737513,2026-11-17T16:00:00Z,STK Ranked,Ninjas in Pyjamas,UNiTY Esports,series,moneyline,,UNiTY Esports,UNiTY Esports,,5.0,0
-2026-11-13T23:22:36Z,kambi_paf,1029737517,2026-11-17T18:30:00Z,STK Ranked,GamerLegion,Luminosity Gaming,series,moneyline,,GamerLegion,GamerLegion,,1.68,0
-2026-11-13T23:22:36Z,kambi_paf,1029737517,2026-11-17T18:30:00Z,STK Ranked,GamerLegion,Luminosity Gaming,series,moneyline,,Luminosity Gaming,Luminosity Gaming,,2.14,0
-2026-11-13T23:22:36Z,kambi_paf,1029756501,2026-11-24T04:00:00Z,PGL Major,Heroic,Imperial Esports,series,moneyline,,Imperial Esports,Imperial Esports,,2.75,0
-2026-11-13T23:22:36Z,kambi_paf,1029756501,2026-11-24T04:00:00Z,PGL Major,Heroic,Imperial Esports,series,moneyline,,Heroic,Heroic,,1.43,0
-2026-11-13T23:22:36Z,kambi_paf,1029756505,2026-11-24T04:00:00Z,PGL Major,9z Team,Lynn Vision Gaming,series,moneyline,,9z Team,9z Team,,1.49,0
-2026-11-13T23:22:36Z,kambi_paf,1029756505,2026-11-24T04:00:00Z,PGL Major,9z Team,Lynn Vision Gaming,series,moneyline,,Lynn Vision Gaming,Lynn Vision Gaming,,2.55,0
-2026-11-13T23:22:36Z,kambi_paf,1029756499,2026-11-24T05:00:00Z,PGL Major,Ninjas in Pyjamas,M80,series,moneyline,,Ninjas in Pyjamas,Ninjas in Pyjamas,,1.58,0
-2026-11-13T23:22:36Z,kambi_paf,1029756499,2026-11-24T05:00:00Z,PGL Major,Ninjas in Pyjamas,M80,series,moneyline,,M80,M80,,2.32,0
-2026-11-13T23:22:36Z,kambi_paf,1029756506,2026-11-24T05:00:00Z,PGL Major,100 Thieves,Chinggis Warriors,series,moneyline,,100 Thieves,100 Thieves,,1.11,0
-2026-11-13T23:22:36Z,kambi_paf,1029756506,2026-11-24T05:00:00Z,PGL Major,100 Thieves,Chinggis Warriors,series,moneyline,,Chinggis Warriors,Chinggis Warriors,,5.75,0
-2026-11-13T23:22:36Z,kambi_paf,1029756500,2026-11-24T06:00:00Z,PGL Major,Team Liquid,BC.Game Esports,series,moneyline,,Team Liquid,Team Liquid,,1.7,0
-2026-11-13T23:22:36Z,kambi_paf,1029756500,2026-11-24T06:00:00Z,PGL Major,Team Liquid,BC.Game Esports,series,moneyline,,BC.Game Esports,BC.Game Esports,,2.1,0
-2026-11-13T23:22:36Z,kambi_paf,1029756502,2026-11-24T06:00:00Z,PGL Major,PARIVISION,DENDELE CS,series,moneyline,,PARIVISION,PARIVISION,,1.43,0
-2026-11-13T23:22:36Z,kambi_paf,1029756502,2026-11-24T06:00:00Z,PGL Major,PARIVISION,DENDELE CS,series,moneyline,,DENDELE CS,DENDELE CS,,2.75,0
-2026-11-13T23:22:36Z,kambi_paf,1029756503,2026-11-24T07:00:00Z,PGL Major,FaZe Clan,Wildcard Gaming,series,moneyline,,Wildcard Gaming,Wildcard Gaming,,2.75,0
-2026-11-13T23:22:36Z,kambi_paf,1029756503,2026-11-24T07:00:00Z,PGL Major,FaZe Clan,Wildcard Gaming,series,moneyline,,FaZe Clan,FaZe Clan,,1.43,0
-2026-11-13T23:22:36Z,kambi_paf,1029756504,2026-11-24T07:00:00Z,PGL Major,Eternal Fire,FlyQuest,series,moneyline,,Eternal Fire,Eternal Fire,,1.79,0
-2026-11-13T23:22:36Z,kambi_paf,1029756504,2026-11-24T07:00:00Z,PGL Major,Eternal Fire,FlyQuest,series,moneyline,,FlyQuest,FlyQuest,,1.98,0
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,series,moneyline,,Team Spirit,home,+105,2.05,0
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,series,moneyline,,MOUZ,away,-135,1.741,0
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,series,spread,1.5,Team Spirit,home,-285,1.3509,0
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,series,spread,-1.5,MOUZ,away,+210,3.1,0
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,series,total,2.5,Over,over,EVEN,2.0,0
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,series,total,2.5,Under,under,-130,1.7692,0
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,moneyline,,Team Spirit,home,+115,2.15,0
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,moneyline,,MOUZ,away,-150,1.6667,0
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,2.5,Team Spirit,home,-130,1.7692,0
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,-2.5,MOUZ,away,EVEN,2.0,0
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,21.5,Over,over,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,21.5,Under,under,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,moneyline,,Team Spirit,home,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,moneyline,,MOUZ,away,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,2.5,Team Spirit,home,-170,1.5882,0
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,-2.5,MOUZ,away,+130,2.3,0
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,total,21.5,Over,over,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,total,21.5,Under,under,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map3,moneyline,,Team Spirit,home,EVEN,2.0,0
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map3,moneyline,,MOUZ,away,-130,1.7692,0
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map3,spread,2.5,Team Spirit,home,-150,1.6667,0
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map3,spread,-2.5,MOUZ,away,+115,2.15,0
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map3,total,21.5,Over,over,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map3,total,21.5,Under,under,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,series,spread,-1.5,Team Spirit,home,+285,3.85,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,series,spread,1.5,MOUZ,away,-425,1.2353,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,1.5,Team Spirit,home,+115,2.15,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,-1.5,MOUZ,away,-150,1.6667,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,-3.5,Team Spirit,home,+150,2.5,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,3.5,MOUZ,away,-200,1.5,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,5.5,Team Spirit,home,-115,1.87,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,-5.5,MOUZ,away,-115,1.87,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,6.5,Team Spirit,home,-120,1.8333,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,-6.5,MOUZ,away,-110,1.9091,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,-8.5,Team Spirit,home,+180,2.8,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,8.5,MOUZ,away,-240,1.4167,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,11.5,Team Spirit,home,-185,1.5405,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,-11.5,MOUZ,away,+140,2.4,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,16.5,Team Spirit,home,-325,1.3077,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,spread,-16.5,MOUZ,away,+230,3.3,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,-1.5,Team Spirit,home,+105,2.05,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,1.5,MOUZ,away,-135,1.741,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,3.5,Team Spirit,home,-135,1.741,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,-3.5,MOUZ,away,+105,2.05,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,-6.5,Team Spirit,home,+130,2.3,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,6.5,MOUZ,away,-170,1.5882,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,8.5,Team Spirit,home,-185,1.5405,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,-8.5,MOUZ,away,+140,2.4,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,-11.5,Team Spirit,home,+200,3.0,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,11.5,MOUZ,away,-275,1.3636,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,13.5,Team Spirit,home,-275,1.3636,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,spread,-13.5,MOUZ,away,+200,3.0,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,,Team Spirit to Win and Over 21.5 Rounds,home,+330,4.3,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,,Team Spirit to Win and Under 21.5 Rounds,home,+260,3.6,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,,MOUZ  to Win and Over 21.5 Rounds,away,+240,3.4,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,,MOUZ  to Win and Under 21.5 Rounds,away,+220,3.2,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,total,,Team Spirit to Win and Over 21.5 Rounds,home,+250,3.5,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,total,,Team Spirit to Win and Under 21.5 Rounds,home,+240,3.4,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,total,,MOUZ  to Win and Over 21.5 Rounds,away,+300,4.0,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,total,,MOUZ  to Win and Under 21.5 Rounds,away,+250,3.5,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map3,total,,Team Spirit to Win and Over 21.5 Rounds,home,+275,3.75,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map3,total,,Team Spirit to Win and Under 21.5 Rounds,home,+250,3.5,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map3,total,,MOUZ  to Win and Over 21.5 Rounds,away,+260,3.6,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map3,total,,MOUZ  to Win and Under 21.5 Rounds,away,+235,3.35,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,,Odd,Odd,EVEN,2.0,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,,Even,Even,-140,1.7143,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,total,,Odd,Odd,EVEN,2.0,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map2,total,,Even,Even,-140,1.7143,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map3,total,,Odd,Odd,EVEN,2.0,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map3,total,,Even,Even,-140,1.7143,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,14.5,Over,over,-140,1.7143,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,14.5,Under,under,EVEN,2.0,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,13.5,Over,over,-140,1.7143,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,13.5,Under,under,EVEN,2.0,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,13.5,Over,over,-140,1.7143,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,13.5,Under,under,EVEN,2.0,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,11.5,Over,over,-125,1.8,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,11.5,Under,under,-115,1.87,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,18.5,Over,over,-130,1.7692,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,18.5,Under,under,-110,1.9091,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,15.5,Over,over,-120,1.8333,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,15.5,Under,under,-120,1.8333,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,14.5,Over,over,-130,1.7692,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,14.5,Under,under,-110,1.9091,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,14.5,Over,over,-140,1.7143,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,14.5,Under,under,EVEN,2.0,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,12.5,Over,over,-150,1.6667,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,12.5,Under,under,+105,2.05,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,14.5,Over,over,-120,1.8333,1
+2026-11-14T03:26:58Z,bovada,33623601,2026-11-14T08:00:00Z,BLAST Rivals / Counter-Strike 2 / Esports,Team Spirit,MOUZ,map1,total,14.5,Under,under,-120,1.8333,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,series,moneyline,,FURIA Esports,home,-125,1.8,0
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,series,moneyline,,Team Falcons,away,-105,1.9524,0
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,series,spread,-1.5,FURIA Esports,home,+230,3.3,0
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,series,spread,1.5,Team Falcons,away,-325,1.3077,0
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,series,total,2.5,Over,over,-105,1.9524,0
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,series,total,2.5,Under,under,-125,1.8,0
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,moneyline,,FURIA Esports,home,-105,1.9524,0
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,moneyline,,Team Falcons,away,-125,1.8,0
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,2.5,FURIA Esports,home,-155,1.6452,0
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,-2.5,Team Falcons,away,+120,2.2,0
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,21.5,Over,over,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,21.5,Under,under,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,moneyline,,FURIA Esports,home,-135,1.741,0
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,moneyline,,Team Falcons,away,+105,2.05,0
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,spread,-2.5,FURIA Esports,home,+105,2.05,0
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,spread,2.5,Team Falcons,away,-135,1.741,0
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,total,21.5,Over,over,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,total,21.5,Under,under,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map3,moneyline,,FURIA Esports,home,-120,1.8333,0
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map3,moneyline,,Team Falcons,away,-110,1.9091,0
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map3,spread,-2.5,FURIA Esports,home,+115,2.15,0
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map3,spread,2.5,Team Falcons,away,-150,1.6667,0
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map3,total,21.5,Over,over,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map3,total,21.5,Under,under,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,series,spread,1.5,FURIA Esports,home,-385,1.26,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,series,spread,-1.5,Team Falcons,away,+265,3.65,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,-1.5,FURIA Esports,home,+105,2.05,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,1.5,Team Falcons,away,-135,1.741,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,2.5,FURIA Esports,home,-115,1.87,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,-2.5,Team Falcons,away,-115,1.87,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,3.5,FURIA Esports,home,-120,1.8333,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,-3.5,Team Falcons,away,-110,1.9091,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,-6.5,FURIA Esports,home,+140,2.4,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,6.5,Team Falcons,away,-185,1.5405,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,8.5,FURIA Esports,home,-170,1.5882,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,-8.5,Team Falcons,away,+130,2.3,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,-11.5,FURIA Esports,home,+180,2.8,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,11.5,Team Falcons,away,-240,1.4167,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,13.5,FURIA Esports,home,-275,1.3636,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,spread,-13.5,Team Falcons,away,+200,3.0,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,spread,1.5,FURIA Esports,home,-150,1.6667,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,spread,-1.5,Team Falcons,away,+115,2.15,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,spread,6.5,FURIA Esports,home,-200,1.5,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,spread,-6.5,Team Falcons,away,+150,2.5,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,spread,-8.5,FURIA Esports,home,+125,2.25,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,spread,8.5,Team Falcons,away,-165,1.6061,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,spread,-13.5,FURIA Esports,home,+180,2.8,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,spread,13.5,Team Falcons,away,-240,1.4167,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,spread,-18.5,FURIA Esports,home,+300,4.0,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,spread,18.5,Team Falcons,away,-450,1.2222,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,,FURIA Esports to Win and Over 21.5 Rounds,home,+330,4.3,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,,FURIA Esports to Win and Under 21.5 Rounds,home,+275,3.75,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,,Team Falcons  to Win and Over 21.5 Rounds,away,+240,3.4,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,,Team Falcons  to Win and Under 21.5 Rounds,away,+210,3.1,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,total,,FURIA Esports to Win and Over 21.5 Rounds,home,+250,3.5,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,total,,FURIA Esports to Win and Under 21.5 Rounds,home,+240,3.4,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,total,,Team Falcons  to Win and Over 21.5 Rounds,away,+300,4.0,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,total,,Team Falcons  to Win and Under 21.5 Rounds,away,+250,3.5,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map3,total,,FURIA Esports to Win and Over 21.5 Rounds,home,+260,3.6,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map3,total,,FURIA Esports to Win and Under 21.5 Rounds,home,+260,3.6,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map3,total,,Team Falcons  to Win and Over 21.5 Rounds,away,+260,3.6,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map3,total,,Team Falcons  to Win and Under 21.5 Rounds,away,+230,3.3,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,,Odd,Odd,EVEN,2.0,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,,Even,Even,-140,1.7143,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,total,,Odd,Odd,EVEN,2.0,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map2,total,,Even,Even,-140,1.7143,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map3,total,,Odd,Odd,EVEN,2.0,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map3,total,,Even,Even,-140,1.7143,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,15.5,Over,over,-140,1.7143,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,15.5,Under,under,EVEN,2.0,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,10.5,Over,over,-120,1.8333,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,10.5,Under,under,-120,1.8333,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,11.5,Over,over,-125,1.8,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,11.5,Under,under,-115,1.87,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,17.5,Over,over,-140,1.7143,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,17.5,Under,under,EVEN,2.0,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,15.5,Over,over,-130,1.7692,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,15.5,Under,under,-110,1.9091,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,14.5,Over,over,-140,1.7143,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,14.5,Under,under,EVEN,2.0,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,15.5,Over,over,-120,1.8333,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,15.5,Under,under,-120,1.8333,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,14.5,Over,over,-125,1.8,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,14.5,Under,under,-115,1.87,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,13.5,Over,over,-130,1.7692,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,13.5,Under,under,-110,1.9091,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,12.5,Over,over,-135,1.741,1
+2026-11-14T03:26:58Z,bovada,33630241,2026-11-14T10:30:00Z,BLAST Rivals / Counter-Strike 2 / Esports,FURIA Esports,Team Falcons,map1,total,12.5,Under,under,-105,1.9524,1
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,series,moneyline,,Inner Circle,home,-130,1.7692,0
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,series,moneyline,,Betclic Apogee,away,EVEN,2.0,0
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,series,spread,-1.5,Inner Circle,home,+220,3.2,0
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,series,spread,1.5,Betclic Apogee,away,-300,1.3333,0
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,series,total,2.5,Over,over,-110,1.9091,0
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,series,total,2.5,Under,under,-120,1.8333,0
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,moneyline,,Inner Circle,home,-120,1.8333,0
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,moneyline,,Betclic Apogee,away,-110,1.9091,0
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,-2.5,Inner Circle,home,+125,2.25,0
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,2.5,Betclic Apogee,away,-165,1.6061,0
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,total,21.5,Over,over,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,total,21.5,Under,under,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,moneyline,,Inner Circle,home,-135,1.741,0
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,moneyline,,Betclic Apogee,away,+105,2.05,0
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,spread,-2.5,Inner Circle,home,+105,2.05,0
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,spread,2.5,Betclic Apogee,away,-135,1.741,0
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,total,21.5,Over,over,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,total,21.5,Under,under,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map3,moneyline,,Inner Circle,home,-125,1.8,0
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map3,moneyline,,Betclic Apogee,away,-105,1.9524,0
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map3,spread,-2.5,Inner Circle,home,+115,2.15,0
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map3,spread,2.5,Betclic Apogee,away,-150,1.6667,0
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map3,total,21.5,Over,over,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map3,total,21.5,Under,under,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,series,spread,1.5,Inner Circle,home,-400,1.25,1
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,series,spread,-1.5,Betclic Apogee,away,+275,3.75,1
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,-1.5,Inner Circle,home,+105,2.05,1
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,1.5,Betclic Apogee,away,-135,1.741,1
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,2.5,Inner Circle,home,-120,1.8333,1
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,-2.5,Betclic Apogee,away,-110,1.9091,1
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,3.5,Inner Circle,home,-135,1.741,1
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,-3.5,Betclic Apogee,away,+105,2.05,1
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,-6.5,Inner Circle,home,+130,2.3,1
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,6.5,Betclic Apogee,away,-170,1.5882,1
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,8.5,Inner Circle,home,-185,1.5405,1
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,-8.5,Betclic Apogee,away,+140,2.4,1
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,-11.5,Inner Circle,home,+180,2.8,1
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,11.5,Betclic Apogee,away,-240,1.4167,1
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,13.5,Inner Circle,home,-310,1.3226,1
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map1,spread,-13.5,Betclic Apogee,away,+225,3.25,1
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,spread,0.5,Inner Circle,home,-165,1.6061,1
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,spread,-0.5,Betclic Apogee,away,+125,2.25,1
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,spread,5.5,Inner Circle,home,-200,1.5,1
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,spread,-5.5,Betclic Apogee,away,+150,2.5,1
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,spread,-9.5,Inner Circle,home,+130,2.3,1
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,spread,9.5,Betclic Apogee,away,-170,1.5882,1
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,spread,-14.5,Inner Circle,home,+200,3.0,1
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,spread,14.5,Betclic Apogee,away,-275,1.3636,1
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,spread,-19.5,Inner Circle,home,+300,4.0,1
+2026-11-14T03:26:58Z,bovada,33207964,2026-11-17T11:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Inner Circle,Betclic Apogee,map2,spread,19.5,Betclic Apogee,away,-450,1.2222,1
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,series,moneyline,,BIG,home,-170,1.5882,0
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,series,moneyline,,Sangal Esports,away,+130,2.3,0
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,series,spread,-1.5,BIG,home,+175,2.75,0
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,series,spread,1.5,Sangal Esports,away,-230,1.4348,0
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,series,total,2.5,Over,over,-110,1.9091,0
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,series,total,2.5,Under,under,-120,1.8333,0
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,moneyline,,BIG,home,-135,1.741,0
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,moneyline,,Sangal Esports,away,+105,2.05,0
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,-2.5,BIG,home,+105,2.05,0
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,2.5,Sangal Esports,away,-135,1.741,0
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,total,21.5,Over,over,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,total,21.5,Under,under,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,moneyline,,BIG,home,-155,1.6452,0
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,moneyline,,Sangal Esports,away,+120,2.2,0
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,spread,-2.5,BIG,home,-110,1.9091,0
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,spread,2.5,Sangal Esports,away,-120,1.8333,0
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,total,21.5,Over,over,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,total,21.5,Under,under,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map3,moneyline,,BIG,home,-150,1.6667,0
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map3,moneyline,,Sangal Esports,away,+115,2.15,0
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map3,spread,-2.5,BIG,home,-105,1.9524,0
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map3,spread,2.5,Sangal Esports,away,-125,1.8,0
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map3,total,21.5,Over,over,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map3,total,21.5,Under,under,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,series,spread,1.5,BIG,home,-525,1.19,1
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,series,spread,-1.5,Sangal Esports,away,+340,4.4,1
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,2.5,BIG,home,-150,1.6667,1
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,-2.5,Sangal Esports,away,+115,2.15,1
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,-2.5,BIG,home,-115,1.87,1
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,2.5,Sangal Esports,away,-115,1.87,1
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,7.5,BIG,home,-200,1.5,1
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,-7.5,Sangal Esports,away,+150,2.5,1
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,-7.5,BIG,home,+125,2.25,1
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,7.5,Sangal Esports,away,-165,1.6061,1
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,-12.5,BIG,home,+165,2.65,1
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,12.5,Sangal Esports,away,-220,1.4545,1
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,-17.5,BIG,home,+275,3.75,1
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,17.5,Sangal Esports,away,-400,1.25,1
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,spread,-1.5,BIG,home,-165,1.6061,1
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,spread,1.5,Sangal Esports,away,+125,2.25,1
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,spread,3.5,BIG,home,-200,1.5,1
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,spread,-3.5,Sangal Esports,away,+150,2.5,1
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,spread,-11.5,BIG,home,+130,2.3,1
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,spread,11.5,Sangal Esports,away,-170,1.5882,1
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,spread,-16.5,BIG,home,+225,3.25,1
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,spread,16.5,Sangal Esports,away,-310,1.3226,1
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,spread,-21.5,BIG,home,+325,4.25,1
+2026-11-14T03:26:58Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map2,spread,21.5,Sangal Esports,away,-500,1.2,1
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,series,moneyline,,Ninjas in Pyjamas,home,-550,1.1818,0
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,series,moneyline,,Unity Esports,away,+350,4.5,0
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,series,spread,-1.5,Ninjas in Pyjamas,home,-135,1.741,0
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,series,spread,1.5,Unity Esports,away,+105,2.05,0
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,series,total,2.5,Over,over,+140,2.4,0
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,series,total,2.5,Under,under,-185,1.5405,0
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,moneyline,,Ninjas in Pyjamas,home,-300,1.3333,0
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,moneyline,,Unity Esports,away,+220,3.2,0
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,-3.5,Ninjas in Pyjamas,home,-125,1.8,0
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,3.5,Unity Esports,away,-105,1.9524,0
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,total,20.5,Over,over,-135,1.741,0
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,total,20.5,Under,under,+105,2.05,0
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,moneyline,,Ninjas in Pyjamas,home,-350,1.2857,0
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,moneyline,,Unity Esports,away,+250,3.5,0
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,spread,-4.5,Ninjas in Pyjamas,home,+105,2.05,0
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,spread,4.5,Unity Esports,away,-135,1.741,0
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,total,20.5,Over,over,-135,1.741,0
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,total,20.5,Under,under,+105,2.05,0
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map3,moneyline,,Ninjas in Pyjamas,home,-300,1.3333,0
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map3,moneyline,,Unity Esports,away,+220,3.2,0
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map3,spread,-3.5,Ninjas in Pyjamas,home,-130,1.7692,0
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map3,spread,3.5,Unity Esports,away,EVEN,2.0,0
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map3,total,20.5,Over,over,-145,1.69,0
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map3,total,20.5,Under,under,+110,2.1,0
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,series,spread,1.5,Ninjas in Pyjamas,home,-1200,1.0833,1
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,series,spread,-1.5,Unity Esports,away,+650,7.5,1
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,-1.5,Ninjas in Pyjamas,home,-275,1.3636,1
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,1.5,Unity Esports,away,+200,3.0,1
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,-6.5,Ninjas in Pyjamas,home,-170,1.5882,1
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,6.5,Unity Esports,away,+130,2.3,1
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,-11.5,Ninjas in Pyjamas,home,-115,1.87,1
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,11.5,Unity Esports,away,-115,1.87,1
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,-16.5,Ninjas in Pyjamas,home,+140,2.4,1
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,16.5,Unity Esports,away,-185,1.5405,1
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,-21.5,Ninjas in Pyjamas,home,+230,3.3,1
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,21.5,Unity Esports,away,-325,1.3077,1
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,-26.5,Ninjas in Pyjamas,home,+425,5.25,1
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map1,spread,26.5,Unity Esports,away,-700,1.1429,1
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,spread,-3.5,Ninjas in Pyjamas,home,-310,1.3226,1
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,spread,3.5,Unity Esports,away,+225,3.25,1
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,spread,-8.5,Ninjas in Pyjamas,home,-185,1.5405,1
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,spread,8.5,Unity Esports,away,+140,2.4,1
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,spread,-18.5,Ninjas in Pyjamas,home,+150,2.5,1
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,spread,18.5,Unity Esports,away,-200,1.5,1
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,spread,-23.5,Ninjas in Pyjamas,home,+275,3.75,1
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,spread,23.5,Unity Esports,away,-400,1.25,1
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,spread,-28.5,Ninjas in Pyjamas,home,+550,6.5,1
+2026-11-14T03:26:58Z,bovada,33207966,2026-11-17T16:00:00Z,Stake Ranked / Counter-Strike 2 / Esports,Ninjas in Pyjamas,Unity Esports,map2,spread,28.5,Unity Esports,away,-1000,1.1,1
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,series,moneyline,,GamerLegion,home,-150,1.6667,0
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,series,moneyline,,Luminosity,away,+115,2.15,0
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,series,spread,-1.5,GamerLegion,home,+200,3.0,0
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,series,spread,1.5,Luminosity,away,-275,1.3636,0
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,series,total,2.5,Over,over,-110,1.9091,0
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,series,total,2.5,Under,under,-120,1.8333,0
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,moneyline,,GamerLegion,home,-150,1.6667,0
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,moneyline,,Luminosity,away,+115,2.15,0
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,-2.5,GamerLegion,home,EVEN,2.0,0
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,2.5,Luminosity,away,-130,1.7692,0
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,total,21.5,Over,over,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,total,21.5,Under,under,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,moneyline,,GamerLegion,home,-125,1.8,0
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,moneyline,,Luminosity,away,-105,1.9524,0
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,spread,-2.5,GamerLegion,home,+115,2.15,0
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,spread,2.5,Luminosity,away,-150,1.6667,0
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,total,21.5,Over,over,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,total,21.5,Under,under,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map3,moneyline,,GamerLegion,home,-145,1.69,0
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map3,moneyline,,Luminosity,away,+110,2.1,0
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map3,spread,-2.5,GamerLegion,home,+105,2.05,0
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map3,spread,2.5,Luminosity,away,-135,1.741,0
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map3,total,21.5,Over,over,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map3,total,21.5,Under,under,-115,1.87,0
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,series,spread,1.5,GamerLegion,home,-425,1.2353,1
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,series,spread,-1.5,Luminosity,away,+285,3.85,1
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,0.5,GamerLegion,home,-165,1.6061,1
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,-0.5,Luminosity,away,+125,2.25,1
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,-4.5,GamerLegion,home,-115,1.87,1
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,4.5,Luminosity,away,-115,1.87,1
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,5.5,GamerLegion,home,-200,1.5,1
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,-5.5,Luminosity,away,+150,2.5,1
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,-9.5,GamerLegion,home,+125,2.25,1
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,9.5,Luminosity,away,-165,1.6061,1
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,-14.5,GamerLegion,home,+180,2.8,1
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,14.5,Luminosity,away,-240,1.4167,1
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,-19.5,GamerLegion,home,+300,4.0,1
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map1,spread,19.5,Luminosity,away,-450,1.2222,1
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,spread,2.5,GamerLegion,home,-135,1.741,1
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,spread,-2.5,Luminosity,away,+105,2.05,1
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,spread,7.5,GamerLegion,home,-185,1.5405,1
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,spread,-7.5,Luminosity,away,+140,2.4,1
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,spread,-7.5,GamerLegion,home,+130,2.3,1
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,spread,7.5,Luminosity,away,-170,1.5882,1
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,spread,-12.5,GamerLegion,home,+180,2.8,1
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,spread,12.5,Luminosity,away,-240,1.4167,1
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,spread,-17.5,GamerLegion,home,+275,3.75,1
+2026-11-14T03:26:58Z,bovada,33206992,2026-11-17T18:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,GamerLegion,Luminosity,map2,spread,17.5,Luminosity,away,-400,1.25,1
+2026-11-14T03:26:58Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,live game,moneyline,,Barca eSports,home,-1400,1.0714,0
+2026-11-14T03:26:58Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,live game,moneyline,,Borracheiros,away,+700,8.0,0
+2026-11-14T03:26:58Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,live game,spread,-1.5,Barca eSports,home,-240,1.4167,0
+2026-11-14T03:26:58Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,live game,spread,1.5,Borracheiros,away,+180,2.8,0
+2026-11-14T03:26:58Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,live game,total,2.5,Over,over,+180,2.8,0
+2026-11-14T03:26:58Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,live game,total,2.5,Under,under,-240,1.4167,0
+2026-11-14T03:26:58Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,map2,moneyline,,Barca eSports,home,-240,1.4167,0
+2026-11-14T03:26:58Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,map2,moneyline,,Borracheiros,away,+180,2.8,0
+2026-11-14T03:26:58Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,map2,spread,-2.5,Barca eSports,home,-155,1.6452,0
+2026-11-14T03:26:58Z,bovada,33564195,2026-11-13T22:00:00Z,South America / CCT League / Counter-Strike 2 / Esports,Barca eSports,Borracheiros,map2,spread,2.5,Borracheiros,away,+120,2.2,0
+2026-11-14T03:26:58Z,kambi_paf,1029851476,2026-11-14T08:00:00Z,BLAST Rivals Fall,Team Spirit,MOUZ,series,moneyline,,Team Spirit,Team Spirit,,2.08,0
+2026-11-14T03:26:58Z,kambi_paf,1029851476,2026-11-14T08:00:00Z,BLAST Rivals Fall,Team Spirit,MOUZ,series,moneyline,,MOUZ,MOUZ,,1.72,0
+2026-11-14T03:26:58Z,kambi_paf,1029856370,2026-11-14T09:00:00Z,European Pro League,GenOne,Balkan Outlaws,series,moneyline,,GenOne,GenOne,,1.62,0
+2026-11-14T03:26:58Z,kambi_paf,1029856370,2026-11-14T09:00:00Z,European Pro League,GenOne,Balkan Outlaws,series,moneyline,,Balkan Outlaws,Balkan Outlaws,,2.25,0
+2026-11-14T03:26:58Z,kambi_paf,1029855688,2026-11-14T09:00:00Z,NODWIN Clutch Series,FORZE Reload,NT,series,moneyline,,FORZE Reload,FORZE Reload,,1.4,0
+2026-11-14T03:26:58Z,kambi_paf,1029855688,2026-11-14T09:00:00Z,NODWIN Clutch Series,FORZE Reload,NT,series,moneyline,,NT,NT,,2.85,0
+2026-11-14T03:26:58Z,kambi_paf,1029851106,2026-11-14T09:30:00Z,United21,WOPA Esport,EYEBALLERS,series,moneyline,,WOPA Esport,WOPA Esport,,3.15,0
+2026-11-14T03:26:58Z,kambi_paf,1029851106,2026-11-14T09:30:00Z,United21,WOPA Esport,EYEBALLERS,series,moneyline,,EYEBALLERS,EYEBALLERS,,1.33,0
+2026-11-14T03:26:58Z,kambi_paf,1029853234,2026-11-14T10:30:00Z,BLAST Rivals Fall,FURIA Esports,Team Falcons,series,moneyline,,FURIA Esports,FURIA Esports,,1.83,0
+2026-11-14T03:26:58Z,kambi_paf,1029853234,2026-11-14T10:30:00Z,BLAST Rivals Fall,FURIA Esports,Team Falcons,series,moneyline,,Team Falcons,Team Falcons,,1.93,0
+2026-11-14T03:26:58Z,kambi_paf,1029856371,2026-11-14T11:30:00Z,European Pro League,9INE,WRAITH PCIFIC,series,moneyline,,9INE,9INE,,1.38,0
+2026-11-14T03:26:58Z,kambi_paf,1029856371,2026-11-14T11:30:00Z,European Pro League,9INE,WRAITH PCIFIC,series,moneyline,,WRAITH PCIFIC,WRAITH PCIFIC,,2.9,0
+2026-11-14T03:26:58Z,kambi_paf,1029845256,2026-11-14T12:00:00Z,CCT European Series 13,Virtus.Pro,BakS eSports,series,moneyline,,Virtus.Pro,Virtus.Pro,,1.28,0
+2026-11-14T03:26:58Z,kambi_paf,1029845256,2026-11-14T12:00:00Z,CCT European Series 13,Virtus.Pro,BakS eSports,series,moneyline,,BakS eSports,BakS eSports,,3.45,0
+2026-11-14T03:26:58Z,kambi_paf,1029857263,2026-11-14T14:00:00Z,ESL Challenger League EU Cup,Noir Verse,MAYBE,series,moneyline,,Noir Verse,Noir Verse,,2.0,0
+2026-11-14T03:26:58Z,kambi_paf,1029857263,2026-11-14T14:00:00Z,ESL Challenger League EU Cup,Noir Verse,MAYBE,series,moneyline,,MAYBE,MAYBE,,1.77,0
+2026-11-14T03:26:58Z,kambi_paf,1029856501,2026-11-14T14:00:00Z,ESL Challenger League EU Cup,Alliance,ex-INOX,series,moneyline,,Alliance,Alliance,,1.32,0
+2026-11-14T03:26:58Z,kambi_paf,1029856501,2026-11-14T14:00:00Z,ESL Challenger League EU Cup,Alliance,ex-INOX,series,moneyline,,ex-INOX,ex-INOX,,3.2,0
+2026-11-14T03:26:58Z,kambi_paf,1029845255,2026-11-14T15:00:00Z,CCT European Series 13,Iberian Soul,FORZE Reload,series,moneyline,,Iberian Soul,Iberian Soul,,1.64,0
+2026-11-14T03:26:58Z,kambi_paf,1029845255,2026-11-14T15:00:00Z,CCT European Series 13,Iberian Soul,FORZE Reload,series,moneyline,,FORZE Reload,FORZE Reload,,2.2,0
+2026-11-14T03:26:58Z,kambi_paf,1029855689,2026-11-14T15:00:00Z,NODWIN Clutch Series,LUNTIKI,Team Spirit Academy,series,moneyline,,LUNTIKI,LUNTIKI,,2.23,0
+2026-11-14T03:26:58Z,kambi_paf,1029855689,2026-11-14T15:00:00Z,NODWIN Clutch Series,LUNTIKI,Team Spirit Academy,series,moneyline,,Team Spirit Academy,Team Spirit Academy,,1.63,0
+2026-11-14T03:26:58Z,kambi_paf,1029854863,2026-11-14T16:00:00Z,CCT South America Series,AXORFY,Turma do Pagode,series,moneyline,,Turma do Pagode,Turma do Pagode,,1.79,0
+2026-11-14T03:26:58Z,kambi_paf,1029854863,2026-11-14T16:00:00Z,CCT South America Series,AXORFY,Turma do Pagode,series,moneyline,,AXORFY,AXORFY,,1.98,0
+2026-11-14T03:26:58Z,kambi_paf,1029845257,2026-11-14T18:00:00Z,CCT European Series 13,WW Team,ex-Zero Tenacity,series,moneyline,,WW Team,WW Team,,2.8,0
+2026-11-14T03:26:58Z,kambi_paf,1029845257,2026-11-14T18:00:00Z,CCT European Series 13,WW Team,ex-Zero Tenacity,series,moneyline,,ex-Zero Tenacity,ex-Zero Tenacity,,1.41,0
+2026-11-14T03:26:58Z,kambi_paf,1029855694,2026-11-14T18:00:00Z,NODWIN Clutch Series,BET-M 33,GenOne,series,moneyline,,BET-M 33,BET-M 33,,1.46,0
+2026-11-14T03:26:58Z,kambi_paf,1029855694,2026-11-14T18:00:00Z,NODWIN Clutch Series,BET-M 33,GenOne,series,moneyline,,GenOne,GenOne,,2.63,0
+2026-11-14T03:26:58Z,kambi_paf,1029845188,2026-11-14T19:00:00Z,CCT South America Series,QUINTESSÊNCIA,ex-Yawara,series,moneyline,,QUINTESSÊNCIA,QUINTESSÊNCIA,,2.06,0
+2026-11-14T03:26:58Z,kambi_paf,1029845188,2026-11-14T19:00:00Z,CCT South America Series,QUINTESSÊNCIA,ex-Yawara,series,moneyline,,ex-Yawara,ex-Yawara,,1.73,0
+2026-11-14T03:26:58Z,kambi_paf,1029836800,2026-11-17T10:00:00Z,RUSH:Brno,Sinners Esports,Nexus Gaming,series,moneyline,,Sinners Esports,Sinners Esports,,1.29,0
+2026-11-14T03:26:58Z,kambi_paf,1029836800,2026-11-17T10:00:00Z,RUSH:Brno,Sinners Esports,Nexus Gaming,series,moneyline,,Nexus Gaming,Nexus Gaming,,3.35,0
+2026-11-14T03:26:58Z,kambi_paf,1029836802,2026-11-17T13:00:00Z,RUSH:Brno,Alliance,Iberian Soul,series,moneyline,,Alliance,Alliance,,1.67,0
+2026-11-14T03:26:58Z,kambi_paf,1029836802,2026-11-17T13:00:00Z,RUSH:Brno,Alliance,Iberian Soul,series,moneyline,,Iberian Soul,Iberian Soul,,2.12,0
+2026-11-14T03:26:58Z,kambi_paf,1029737519,2026-11-17T13:30:00Z,STK Ranked,BIG,Sangal Esports,series,moneyline,,Sangal Esports,Sangal Esports,,2.35,0
+2026-11-14T03:26:58Z,kambi_paf,1029737519,2026-11-17T13:30:00Z,STK Ranked,BIG,Sangal Esports,series,moneyline,,BIG,BIG,,1.57,0
+2026-11-14T03:26:58Z,kambi_paf,1029737513,2026-11-17T16:00:00Z,STK Ranked,Ninjas in Pyjamas,UNiTY Esports,series,moneyline,,Ninjas in Pyjamas,Ninjas in Pyjamas,,1.15,0
+2026-11-14T03:26:58Z,kambi_paf,1029737513,2026-11-17T16:00:00Z,STK Ranked,Ninjas in Pyjamas,UNiTY Esports,series,moneyline,,UNiTY Esports,UNiTY Esports,,5.0,0
+2026-11-14T03:26:58Z,kambi_paf,1029737517,2026-11-17T18:30:00Z,STK Ranked,GamerLegion,Luminosity Gaming,series,moneyline,,GamerLegion,GamerLegion,,1.68,0
+2026-11-14T03:26:58Z,kambi_paf,1029737517,2026-11-17T18:30:00Z,STK Ranked,GamerLegion,Luminosity Gaming,series,moneyline,,Luminosity Gaming,Luminosity Gaming,,2.14,0
+2026-11-14T03:26:58Z,kambi_paf,1029756501,2026-11-24T04:00:00Z,PGL Major,Heroic,Imperial Esports,series,moneyline,,Imperial Esports,Imperial Esports,,2.75,0
+2026-11-14T03:26:58Z,kambi_paf,1029756501,2026-11-24T04:00:00Z,PGL Major,Heroic,Imperial Esports,series,moneyline,,Heroic,Heroic,,1.43,0
+2026-11-14T03:26:58Z,kambi_paf,1029756505,2026-11-24T04:00:00Z,PGL Major,9z Team,Lynn Vision Gaming,series,moneyline,,9z Team,9z Team,,1.49,0
+2026-11-14T03:26:58Z,kambi_paf,1029756505,2026-11-24T04:00:00Z,PGL Major,9z Team,Lynn Vision Gaming,series,moneyline,,Lynn Vision Gaming,Lynn Vision Gaming,,2.55,0
+2026-11-14T03:26:58Z,kambi_paf,1029756499,2026-11-24T05:00:00Z,PGL Major,Ninjas in Pyjamas,M80,series,moneyline,,Ninjas in Pyjamas,Ninjas in Pyjamas,,1.58,0
+2026-11-14T03:26:58Z,kambi_paf,1029756499,2026-11-24T05:00:00Z,PGL Major,Ninjas in Pyjamas,M80,series,moneyline,,M80,M80,,2.32,0
+2026-11-14T03:26:58Z,kambi_paf,1029756506,2026-11-24T05:00:00Z,PGL Major,100 Thieves,Chinggis Warriors,series,moneyline,,100 Thieves,100 Thieves,,1.11,0
+2026-11-14T03:26:58Z,kambi_paf,1029756506,2026-11-24T05:00:00Z,PGL Major,100 Thieves,Chinggis Warriors,series,moneyline,,Chinggis Warriors,Chinggis Warriors,,5.75,0
+2026-11-14T03:26:58Z,kambi_paf,1029756500,2026-11-24T06:00:00Z,PGL Major,Team Liquid,BC.Game Esports,series,moneyline,,Team Liquid,Team Liquid,,1.7,0
+2026-11-14T03:26:58Z,kambi_paf,1029756500,2026-11-24T06:00:00Z,PGL Major,Team Liquid,BC.Game Esports,series,moneyline,,BC.Game Esports,BC.Game Esports,,2.1,0
+2026-11-14T03:26:58Z,kambi_paf,1029756502,2026-11-24T06:00:00Z,PGL Major,PARIVISION,DENDELE CS,series,moneyline,,PARIVISION,PARIVISION,,1.43,0
+2026-11-14T03:26:58Z,kambi_paf,1029756502,2026-11-24T06:00:00Z,PGL Major,PARIVISION,DENDELE CS,series,moneyline,,DENDELE CS,DENDELE CS,,2.75,0
+2026-11-14T03:26:58Z,kambi_paf,1029756503,2026-11-24T07:00:00Z,PGL Major,FaZe Clan,Wildcard Gaming,series,moneyline,,Wildcard Gaming,Wildcard Gaming,,2.75,0
+2026-11-14T03:26:58Z,kambi_paf,1029756503,2026-11-24T07:00:00Z,PGL Major,FaZe Clan,Wildcard Gaming,series,moneyline,,FaZe Clan,FaZe Clan,,1.43,0
+2026-11-14T03:26:58Z,kambi_paf,1029756504,2026-11-24T07:00:00Z,PGL Major,Eternal Fire,FlyQuest,series,moneyline,,Eternal Fire,Eternal Fire,,1.79,0
+2026-11-14T03:26:58Z,kambi_paf,1029756504,2026-11-24T07:00:00Z,PGL Major,Eternal Fire,FlyQuest,series,moneyline,,FlyQuest,FlyQuest,,1.98,0
