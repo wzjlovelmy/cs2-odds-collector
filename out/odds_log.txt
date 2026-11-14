@@ -24,3 +24,4 @@
 {"ts": "2026-11-14T03:26:58Z", "rows": 438, "changed": 36, "metas": [{"source": "bovada", "status": 200, "events": 12, "rows": 382}, {"source": "kambi", "status": 200, "events": 28, "rows": 56}]}
 {"ts": "2026-11-14T10:46:50Z", "rows": 652, "changed": 410, "metas": [{"source": "bovada", "status": 200, "events": 31, "rows": 604}, {"source": "kambi", "status": 200, "events": 24, "rows": 48}]}
 {"ts": "2026-11-14T16:50:04Z", "rows": 580, "changed": 274, "metas": [{"source": "bovada", "status": 200, "events": 32, "rows": 546}, {"source": "kambi", "status": 200, "events": 17, "rows": 34}]}
+{"ts": "2026-11-14T21:03:58Z", "rows": 572, "changed": 14, "metas": [{"source": "bovada", "status": 200, "events": 32, "rows": 546}, {"source": "kambi", "status": 200, "events": 13, "rows": 26}]}
