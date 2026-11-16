@@ -6267,3 +6267,55 @@ fetched_at,source,event_id,start_time,league,home,away,scope,market,line,outcome
 2026-11-16T00:08:58Z,bovada,33381371,2026-11-24T07:00:00Z,PGL Singapore '26 / Counter-Strike 2 / Esports,FaZe Clan,Wildcard Gaming,map1,spread,24.5,Wildcard Gaming,away,-600,1.1667,1
 2026-11-16T00:08:58Z,kambi_paf,1029879830,2026-11-16T15:00:00Z,PGL Cluj-Napoca,magic,Eternal Fire,series,moneyline,,magic,magic,,2.25,0
 2026-11-16T00:08:58Z,kambi_paf,1029879830,2026-11-16T15:00:00Z,PGL Cluj-Napoca,magic,Eternal Fire,series,moneyline,,Eternal Fire,Eternal Fire,,1.62,0
+2026-11-16T06:23:50Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,-2.5,BIG,home,+105,2.05,0
+2026-11-16T06:23:50Z,bovada,33207965,2026-11-17T13:30:00Z,Stake Ranked / Counter-Strike 2 / Esports,BIG,Sangal Esports,map1,spread,2.5,Sangal Esports,away,-135,1.741,0
+2026-11-16T06:23:50Z,bovada,33636813,2026-11-17T11:30:00Z,European Pro League / Counter-Strike 2 / Esports,Infinite,Mouz NXT,series,moneyline,,Infinite,home,-250,1.4,0
+2026-11-16T06:23:50Z,bovada,33636813,2026-11-17T11:30:00Z,European Pro League / Counter-Strike 2 / Esports,Infinite,Mouz NXT,series,moneyline,,Mouz NXT,away,+185,2.85,0
+2026-11-16T06:23:50Z,bovada,33636813,2026-11-17T11:30:00Z,European Pro League / Counter-Strike 2 / Esports,Infinite,Mouz NXT,series,spread,-1.5,Infinite,home,+140,2.4,0
+2026-11-16T06:23:50Z,bovada,33636813,2026-11-17T11:30:00Z,European Pro League / Counter-Strike 2 / Esports,Infinite,Mouz NXT,series,spread,1.5,Mouz NXT,away,-185,1.5405,0
+2026-11-16T06:23:50Z,bovada,33636813,2026-11-17T11:30:00Z,European Pro League / Counter-Strike 2 / Esports,Infinite,Mouz NXT,series,total,2.5,Over,over,-110,1.9091,0
+2026-11-16T06:23:50Z,bovada,33636813,2026-11-17T11:30:00Z,European Pro League / Counter-Strike 2 / Esports,Infinite,Mouz NXT,series,total,2.5,Under,under,-120,1.8333,0
+2026-11-16T06:23:50Z,bovada,33636813,2026-11-17T11:30:00Z,European Pro League / Counter-Strike 2 / Esports,Infinite,Mouz NXT,map2,moneyline,,Infinite,home,-205,1.4878,0
+2026-11-16T06:23:50Z,bovada,33636813,2026-11-17T11:30:00Z,European Pro League / Counter-Strike 2 / Esports,Infinite,Mouz NXT,map2,moneyline,,Mouz NXT,away,+155,2.55,0
+2026-11-16T06:23:50Z,bovada,33636813,2026-11-17T11:30:00Z,European Pro League / Counter-Strike 2 / Esports,Infinite,Mouz NXT,map2,spread,-3.5,Infinite,home,+105,2.05,0
+2026-11-16T06:23:50Z,bovada,33636813,2026-11-17T11:30:00Z,European Pro League / Counter-Strike 2 / Esports,Infinite,Mouz NXT,map2,spread,3.5,Mouz NXT,away,-135,1.741,0
+2026-11-16T06:23:50Z,bovada,33636813,2026-11-17T11:30:00Z,European Pro League / Counter-Strike 2 / Esports,Infinite,Mouz NXT,map3,moneyline,,Infinite,home,-190,1.5263,0
+2026-11-16T06:23:50Z,bovada,33636813,2026-11-17T11:30:00Z,European Pro League / Counter-Strike 2 / Esports,Infinite,Mouz NXT,map3,moneyline,,Mouz NXT,away,+145,2.45,0
+2026-11-16T06:23:50Z,bovada,33636813,2026-11-17T11:30:00Z,European Pro League / Counter-Strike 2 / Esports,Infinite,Mouz NXT,map3,spread,-2.5,Infinite,home,-120,1.8333,0
+2026-11-16T06:23:50Z,bovada,33636813,2026-11-17T11:30:00Z,European Pro League / Counter-Strike 2 / Esports,Infinite,Mouz NXT,map3,spread,2.5,Mouz NXT,away,-110,1.9091,0
+2026-11-16T06:23:50Z,bovada,33703418,2026-11-17T10:00:00Z,Tipsport RUSH Brno '26 / Counter-Strike 2 / Esports,SinnerS,Nexus,map1,spread,-2.5,SinnerS,home,-135,1.741,0
+2026-11-16T06:23:50Z,bovada,33703418,2026-11-17T10:00:00Z,Tipsport RUSH Brno '26 / Counter-Strike 2 / Esports,SinnerS,Nexus,map1,spread,2.5,Nexus,away,+105,2.05,0
+2026-11-16T06:23:50Z,bovada,33703418,2026-11-17T10:00:00Z,Tipsport RUSH Brno '26 / Counter-Strike 2 / Esports,SinnerS,Nexus,map2,moneyline,,SinnerS,home,-275,1.3636,0
+2026-11-16T06:23:50Z,bovada,33703418,2026-11-17T10:00:00Z,Tipsport RUSH Brno '26 / Counter-Strike 2 / Esports,SinnerS,Nexus,map2,moneyline,,Nexus,away,+200,3.0,0
+2026-11-16T06:23:50Z,bovada,33703220,2026-11-17T19:00:00Z,Tipsport RUSH Brno '26 / Counter-Strike 2 / Esports,Envy,Metizport,map1,spread,-2.5,Envy,home,+125,2.25,0
+2026-11-16T06:23:50Z,bovada,33703220,2026-11-17T19:00:00Z,Tipsport RUSH Brno '26 / Counter-Strike 2 / Esports,Envy,Metizport,map1,spread,2.5,Metizport,away,-165,1.6061,0
+2026-11-16T06:23:50Z,bovada,33515832,2026-11-24T06:00:00Z,PGL Singapore '26 / Counter-Strike 2 / Esports,Team Liquid,Gosh,map1,spread,-2.5,Team Liquid,home,+105,2.05,0
+2026-11-16T06:23:50Z,bovada,33515832,2026-11-24T06:00:00Z,PGL Singapore '26 / Counter-Strike 2 / Esports,Team Liquid,Gosh,map1,spread,2.5,Gosh,away,-135,1.741,0
+2026-11-16T06:23:50Z,bovada,33381769,2026-11-24T07:00:00Z,PGL Singapore '26 / Counter-Strike 2 / Esports,Eternal Fire,FlyQuest,map1,spread,-2.5,Eternal Fire,home,+105,2.05,0
+2026-11-16T06:23:50Z,bovada,33381769,2026-11-24T07:00:00Z,PGL Singapore '26 / Counter-Strike 2 / Esports,Eternal Fire,FlyQuest,map1,spread,2.5,FlyQuest,away,-135,1.741,0
+2026-11-16T06:23:50Z,kambi_paf,1029856446,2026-11-16T09:00:00Z,European Pro League,Betclic,MAYBE,series,moneyline,,MAYBE,MAYBE,,6.0,0
+2026-11-16T06:23:50Z,kambi_paf,1029856446,2026-11-16T09:00:00Z,European Pro League,Betclic,MAYBE,series,moneyline,,Betclic,Betclic,,1.11,0
+2026-11-16T06:23:50Z,kambi_paf,1029878525,2026-11-16T11:00:00Z,CCT European Series 13,Virtus.Pro,Black Phoenix,series,moneyline,,Virtus.Pro,Virtus.Pro,,1.26,0
+2026-11-16T06:23:50Z,kambi_paf,1029878525,2026-11-16T11:00:00Z,CCT European Series 13,Virtus.Pro,Black Phoenix,series,moneyline,,Black Phoenix,Black Phoenix,,3.65,0
+2026-11-16T06:23:50Z,kambi_paf,1029856421,2026-11-16T11:30:00Z,European Pro League,ex-INOX,benched gods,series,moneyline,,ex-INOX,ex-INOX,,1.13,0
+2026-11-16T06:23:50Z,kambi_paf,1029856421,2026-11-16T11:30:00Z,European Pro League,ex-INOX,benched gods,series,moneyline,,benched gods,benched gods,,5.4,0
+2026-11-16T06:23:50Z,kambi_paf,1029880330,2026-11-16T12:00:00Z,CCT European Series 14,MOUZ NXT,Azuolas,series,moneyline,,Azuolas,Azuolas,,2.5,0
+2026-11-16T06:23:50Z,kambi_paf,1029880330,2026-11-16T12:00:00Z,CCT European Series 14,MOUZ NXT,Azuolas,series,moneyline,,MOUZ NXT,MOUZ NXT,,1.5,0
+2026-11-16T06:23:50Z,kambi_paf,1029880286,2026-11-16T12:00:00Z,NODWIN Clutch Series,Brute,NT,series,moneyline,,Brute,Brute,,1.55,0
+2026-11-16T06:23:50Z,kambi_paf,1029880286,2026-11-16T12:00:00Z,NODWIN Clutch Series,Brute,NT,series,moneyline,,NT,NT,,2.4,0
+2026-11-16T06:23:50Z,kambi_paf,1029880294,2026-11-16T15:00:00Z,NODWIN Clutch Series,Team Spirit Academy,ILLYRIANS,series,moneyline,,Team Spirit Academy,Team Spirit Academy,,1.68,0
+2026-11-16T06:23:50Z,kambi_paf,1029880294,2026-11-16T15:00:00Z,NODWIN Clutch Series,Team Spirit Academy,ILLYRIANS,series,moneyline,,ILLYRIANS,ILLYRIANS,,2.14,0
+2026-11-16T06:23:50Z,kambi_paf,1029880331,2026-11-16T15:00:00Z,CCT European Series 14,BakS eSports,MASONIC,series,moneyline,,MASONIC,MASONIC,,4.2,0
+2026-11-16T06:23:50Z,kambi_paf,1029880331,2026-11-16T15:00:00Z,CCT European Series 14,BakS eSports,MASONIC,series,moneyline,,BakS eSports,BakS eSports,,1.2,0
+2026-11-16T06:23:50Z,kambi_paf,1029880328,2026-11-16T18:00:00Z,PGL Cluj-Napoca,PARIVISION,Heroic,series,moneyline,,Heroic,Heroic,,2.0,0
+2026-11-16T06:23:50Z,kambi_paf,1029880328,2026-11-16T18:00:00Z,PGL Cluj-Napoca,PARIVISION,Heroic,series,moneyline,,PARIVISION,PARIVISION,,1.77,0
+2026-11-16T06:23:50Z,kambi_paf,1029880295,2026-11-17T09:00:00Z,NODWIN Clutch Series,Drama eSports,BET-M 33,series,moneyline,,Drama eSports,Drama eSports,,4.3,0
+2026-11-16T06:23:50Z,kambi_paf,1029880295,2026-11-17T09:00:00Z,NODWIN Clutch Series,Drama eSports,BET-M 33,series,moneyline,,BET-M 33,BET-M 33,,1.19,0
+2026-11-16T06:23:50Z,kambi_paf,1029856447,2026-11-17T09:00:00Z,European Pro League,WBT,ex-ENCE,series,moneyline,,WBT,WBT,,1.53,0
+2026-11-16T06:23:50Z,kambi_paf,1029856447,2026-11-17T09:00:00Z,European Pro League,WBT,ex-ENCE,series,moneyline,,ex-ENCE,ex-ENCE,,2.45,0
+2026-11-16T06:23:50Z,kambi_paf,1029856401,2026-11-17T11:30:00Z,European Pro League,Infinite Gaming,MOUZ NXT,series,moneyline,,Infinite Gaming,Infinite Gaming,,1.38,0
+2026-11-16T06:23:50Z,kambi_paf,1029856401,2026-11-17T11:30:00Z,European Pro League,Infinite Gaming,MOUZ NXT,series,moneyline,,MOUZ NXT,MOUZ NXT,,2.9,0
+2026-11-16T06:23:50Z,kambi_paf,1029880311,2026-11-17T12:00:00Z,NODWIN Clutch Series,Hype Tech,ex-INOX,series,moneyline,,Hype Tech,Hype Tech,,1.38,0
+2026-11-16T06:23:50Z,kambi_paf,1029880311,2026-11-17T12:00:00Z,NODWIN Clutch Series,Hype Tech,ex-INOX,series,moneyline,,ex-INOX,ex-INOX,,2.9,0
+2026-11-16T06:23:50Z,kambi_paf,1029880329,2026-11-17T12:00:00Z,PGL Cluj-Napoca,Fnatic,100 Thieves,series,moneyline,,Fnatic,Fnatic,,2.02,0
+2026-11-16T06:23:50Z,kambi_paf,1029880329,2026-11-17T12:00:00Z,PGL Cluj-Napoca,Fnatic,100 Thieves,series,moneyline,,100 Thieves,100 Thieves,,1.76,0
