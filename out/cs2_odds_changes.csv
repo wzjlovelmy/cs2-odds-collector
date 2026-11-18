@@ -7235,3 +7235,27 @@ fetched_at,source,event_id,start_time,league,home,away,scope,market,line,outcome
 2026-11-17T23:58:34Z,kambi_paf,1029900438,2026-11-18T16:00:00Z,RUSH:Brno,Sinners Esports,Alliance,series,moneyline,,Alliance,Alliance,,2.43,0
 2026-11-17T23:58:34Z,kambi_paf,1029903551,2026-11-18T18:30:00Z,STK Ranked,Ninjas in Pyjamas,Luminosity Gaming,series,moneyline,,Ninjas in Pyjamas,Ninjas in Pyjamas,,1.4,0
 2026-11-17T23:58:34Z,kambi_paf,1029903551,2026-11-18T18:30:00Z,STK Ranked,Ninjas in Pyjamas,Luminosity Gaming,series,moneyline,,Luminosity Gaming,Luminosity Gaming,,2.8,0
+2026-11-18T06:45:18Z,bovada,33515832,2026-11-24T06:00:00Z,PGL Singapore '26 / Counter-Strike 2 / Esports,Team Liquid,Gosh,map1,spread,-2.5,Team Liquid,home,+105,2.05,0
+2026-11-18T06:45:18Z,bovada,33515832,2026-11-24T06:00:00Z,PGL Singapore '26 / Counter-Strike 2 / Esports,Team Liquid,Gosh,map1,spread,2.5,Gosh,away,-135,1.741,0
+2026-11-18T06:45:18Z,bovada,33381769,2026-11-24T07:00:00Z,PGL Singapore '26 / Counter-Strike 2 / Esports,Eternal Fire,FlyQuest,map1,spread,-2.5,Eternal Fire,home,+105,2.05,0
+2026-11-18T06:45:18Z,bovada,33381769,2026-11-24T07:00:00Z,PGL Singapore '26 / Counter-Strike 2 / Esports,Eternal Fire,FlyQuest,map1,spread,2.5,FlyQuest,away,-135,1.741,0
+2026-11-18T06:45:18Z,kambi_paf,1029900437,2026-11-18T10:10:00Z,RUSH:Brno,Nexus Gaming,Iberian Soul,series,moneyline,,Nexus Gaming,Nexus Gaming,,2.23,0
+2026-11-18T06:45:18Z,kambi_paf,1029900437,2026-11-18T10:10:00Z,RUSH:Brno,Nexus Gaming,Iberian Soul,series,moneyline,,Iberian Soul,Iberian Soul,,1.63,0
+2026-11-18T06:45:18Z,kambi_paf,1029903700,2026-11-18T12:00:00Z,NODWIN Clutch Series,BET-M 33,Team Spirit Academy,series,moneyline,,BET-M 33,BET-M 33,,1.53,0
+2026-11-18T06:45:18Z,kambi_paf,1029903700,2026-11-18T12:00:00Z,NODWIN Clutch Series,BET-M 33,Team Spirit Academy,series,moneyline,,Team Spirit Academy,Team Spirit Academy,,2.45,0
+2026-11-18T06:45:18Z,kambi_paf,1029903853,2026-11-18T13:00:00Z,RUSH:Brno,Phantom,Metizport,series,moneyline,,Phantom,Phantom,,1.73,0
+2026-11-18T06:45:18Z,kambi_paf,1029903853,2026-11-18T13:00:00Z,RUSH:Brno,Phantom,Metizport,series,moneyline,,Metizport,Metizport,,2.06,0
+2026-11-18T06:45:18Z,kambi_paf,1029903793,2026-11-18T15:00:00Z,CCT European Series 14,BakS eSports,The Last Resort,series,moneyline,,BakS eSports,BakS eSports,,1.13,0
+2026-11-18T06:45:18Z,kambi_paf,1029903793,2026-11-18T15:00:00Z,CCT European Series 14,BakS eSports,The Last Resort,series,moneyline,,The Last Resort,The Last Resort,,5.5,0
+2026-11-18T06:45:18Z,kambi_paf,1029903701,2026-11-18T15:00:00Z,NODWIN Clutch Series,FORZE Reload,ex-INOX,series,moneyline,,FORZE Reload,FORZE Reload,,1.5,0
+2026-11-18T06:45:18Z,kambi_paf,1029903701,2026-11-18T15:00:00Z,NODWIN Clutch Series,FORZE Reload,ex-INOX,series,moneyline,,ex-INOX,ex-INOX,,2.5,0
+2026-11-18T06:45:18Z,kambi_paf,1029900438,2026-11-18T16:00:00Z,RUSH:Brno,Sinners Esports,Alliance,series,moneyline,,Sinners Esports,Sinners Esports,,1.47,0
+2026-11-18T06:45:18Z,kambi_paf,1029900438,2026-11-18T16:00:00Z,RUSH:Brno,Sinners Esports,Alliance,series,moneyline,,Alliance,Alliance,,2.6,0
+2026-11-18T06:45:18Z,kambi_paf,1029903794,2026-11-18T18:00:00Z,CCT European Series 14,Leo Team,Walczaki,series,moneyline,,Leo Team,Leo Team,,1.63,0
+2026-11-18T06:45:18Z,kambi_paf,1029903794,2026-11-18T18:00:00Z,CCT European Series 14,Leo Team,Walczaki,series,moneyline,,Walczaki,Walczaki,,2.23,0
+2026-11-18T06:45:18Z,kambi_paf,1029903854,2026-11-18T19:00:00Z,RUSH:Brno,BBL Esports,Team Envy,series,moneyline,,BBL Esports,BBL Esports,,2.06,0
+2026-11-18T06:45:18Z,kambi_paf,1029903854,2026-11-18T19:00:00Z,RUSH:Brno,BBL Esports,Team Envy,series,moneyline,,Team Envy,Team Envy,,1.73,0
+2026-11-18T06:45:18Z,kambi_paf,1029900325,2026-11-19T11:30:00Z,European Pro League,WBT,MOUZ NXT,series,moneyline,,WBT,WBT,,1.22,0
+2026-11-18T06:45:18Z,kambi_paf,1029900325,2026-11-19T11:30:00Z,European Pro League,WBT,MOUZ NXT,series,moneyline,,MOUZ NXT,MOUZ NXT,,3.95,0
+2026-11-18T06:45:18Z,kambi_paf,1029756504,2026-11-24T07:00:00Z,PGL Major,Eternal Fire,FlyQuest,series,moneyline,,Eternal Fire,Eternal Fire,,1.73,0
+2026-11-18T06:45:18Z,kambi_paf,1029756504,2026-11-24T07:00:00Z,PGL Major,Eternal Fire,FlyQuest,series,moneyline,,FlyQuest,FlyQuest,,2.06,0
