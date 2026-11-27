@@ -13091,3 +13091,27 @@ fetched_at,source,event_id,start_time,league,home,away,scope,market,line,outcome
 2026-11-27T12:57:17Z,kambi_paf,1030016303,2026-11-28T06:00:00Z,PGL Major,Astralis,Imperial Esports,series,moneyline,,Imperial Esports,Imperial Esports,,2.28,0
 2026-11-27T12:57:17Z,kambi_paf,1030009751,2026-11-28T09:00:00Z,CCT European Series 15,FORZE Reload,Leo Team,series,moneyline,,FORZE Reload,FORZE Reload,,1.44,0
 2026-11-27T12:57:17Z,kambi_paf,1030009751,2026-11-28T09:00:00Z,CCT European Series 15,FORZE Reload,Leo Team,series,moneyline,,Leo Team,Leo Team,,2.55,0
+2026-11-27T21:49:52Z,bovada,34206220,2026-11-27T12:10:00Z,PGL Singapore '26 / Counter-Strike 2 / Esports,M80,100 Thieves,map2,total,12.5,Over,over,-110,1.9091,1
+2026-11-27T21:49:52Z,bovada,34206220,2026-11-27T12:10:00Z,PGL Singapore '26 / Counter-Strike 2 / Esports,M80,100 Thieves,map2,total,12.5,Under,under,-130,1.7692,1
+2026-11-27T21:49:52Z,bovada,34206220,2026-11-27T12:10:00Z,PGL Singapore '26 / Counter-Strike 2 / Esports,M80,100 Thieves,map2,total,14.5,Over,over,-110,1.9091,1
+2026-11-27T21:49:52Z,bovada,34206220,2026-11-27T12:10:00Z,PGL Singapore '26 / Counter-Strike 2 / Esports,M80,100 Thieves,map2,total,14.5,Under,under,-130,1.7692,1
+2026-11-27T21:49:52Z,bovada,34206220,2026-11-27T12:10:00Z,PGL Singapore '26 / Counter-Strike 2 / Esports,M80,100 Thieves,map2,total,14.5,Over,over,-135,1.741,1
+2026-11-27T21:49:52Z,bovada,34206220,2026-11-27T12:10:00Z,PGL Singapore '26 / Counter-Strike 2 / Esports,M80,100 Thieves,map2,total,14.5,Under,under,-105,1.9524,1
+2026-11-27T21:49:52Z,bovada,34206220,2026-11-27T12:10:00Z,PGL Singapore '26 / Counter-Strike 2 / Esports,M80,100 Thieves,map2,total,13.5,Over,over,-120,1.8333,1
+2026-11-27T21:49:52Z,bovada,34206220,2026-11-27T12:10:00Z,PGL Singapore '26 / Counter-Strike 2 / Esports,M80,100 Thieves,map2,total,13.5,Under,under,-120,1.8333,1
+2026-11-27T21:49:52Z,bovada,34206220,2026-11-27T12:10:00Z,PGL Singapore '26 / Counter-Strike 2 / Esports,M80,100 Thieves,map2,total,13.5,Over,over,-120,1.8333,1
+2026-11-27T21:49:52Z,bovada,34206220,2026-11-27T12:10:00Z,PGL Singapore '26 / Counter-Strike 2 / Esports,M80,100 Thieves,map2,total,13.5,Under,under,-120,1.8333,1
+2026-11-27T21:49:52Z,bovada,34206220,2026-11-27T12:10:00Z,PGL Singapore '26 / Counter-Strike 2 / Esports,M80,100 Thieves,map2,total,14.5,Over,over,-130,1.7692,1
+2026-11-27T21:49:52Z,bovada,34206220,2026-11-27T12:10:00Z,PGL Singapore '26 / Counter-Strike 2 / Esports,M80,100 Thieves,map2,total,14.5,Under,under,-110,1.9091,1
+2026-11-27T21:49:52Z,kambi_paf,1030018404,2026-11-28T04:00:00Z,PGL Major,The Mongolz,Lynn Vision Gaming,series,moneyline,,The Mongolz,The Mongolz,,1.37,0
+2026-11-27T21:49:52Z,kambi_paf,1030018404,2026-11-28T04:00:00Z,PGL Major,The Mongolz,Lynn Vision Gaming,series,moneyline,,Lynn Vision Gaming,Lynn Vision Gaming,,3.0,0
+2026-11-27T21:49:52Z,kambi_paf,1030016287,2026-11-28T04:00:00Z,PGL Major,FUT Esports,FlyQuest,series,moneyline,,FUT Esports,FUT Esports,,1.33,0
+2026-11-27T21:49:52Z,kambi_paf,1030016287,2026-11-28T04:00:00Z,PGL Major,FUT Esports,FlyQuest,series,moneyline,,FlyQuest,FlyQuest,,3.15,0
+2026-11-27T21:49:52Z,kambi_paf,1030016301,2026-11-28T05:00:00Z,PGL Major,Nemiga Gaming,Ninjas in Pyjamas,series,moneyline,,Nemiga Gaming,Nemiga Gaming,,1.79,0
+2026-11-27T21:49:52Z,kambi_paf,1030016301,2026-11-28T05:00:00Z,PGL Major,Nemiga Gaming,Ninjas in Pyjamas,series,moneyline,,Ninjas in Pyjamas,Ninjas in Pyjamas,,1.98,0
+2026-11-27T21:49:52Z,kambi_paf,1030016303,2026-11-28T05:00:00Z,PGL Major,Astralis,Imperial Esports,series,moneyline,,Astralis,Astralis,,1.68,0
+2026-11-27T21:49:52Z,kambi_paf,1030016303,2026-11-28T05:00:00Z,PGL Major,Astralis,Imperial Esports,series,moneyline,,Imperial Esports,Imperial Esports,,2.14,0
+2026-11-27T21:49:52Z,kambi_paf,1030018403,2026-11-28T07:00:00Z,PGL Major,Made in Brazil,100 Thieves,series,moneyline,,Made in Brazil,Made in Brazil,,1.88,0
+2026-11-27T21:49:52Z,kambi_paf,1030018403,2026-11-28T07:00:00Z,PGL Major,Made in Brazil,100 Thieves,series,moneyline,,100 Thieves,100 Thieves,,1.88,0
+2026-11-27T21:49:52Z,kambi_paf,1030009550,2026-11-28T07:00:00Z,PGL Major,Natus Vincere,PARIVISION,series,moneyline,,Natus Vincere,Natus Vincere,,1.54,0
+2026-11-27T21:49:52Z,kambi_paf,1030009550,2026-11-28T07:00:00Z,PGL Major,Natus Vincere,PARIVISION,series,moneyline,,PARIVISION,PARIVISION,,2.43,0
